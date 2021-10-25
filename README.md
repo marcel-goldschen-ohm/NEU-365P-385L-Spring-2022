@@ -120,9 +120,14 @@ This is not the only way to install and/or manage your Python environment, but i
 
 1. Download and install Miniconda from https://docs.conda.io/en/latest/miniconda.html. Choose the latest version of Python. Miniconda installs the conda package manager which manages all of your Python packages. It comes with a minimal set of basic packages, but there are also additional packages that we will need for this course. I will walk you through installing most of those packages as they are needed, but there are a few that you should install right away (see next steps).
 2. Install Jupyterlab. After you have installed Miniconda you should now be able to use the `conda` command in a Terminal (MacOS), shell (Linux), or command prompt (Windows). Run the command `conda install -c conda-forge jupyterlab`. This will install the Jupyterlab package which is the user interface environment in which we will be spending most of our time. You can test whether this worked by running the command `jupyter-lab` which should open up a page in your web browser with the Jupyterlab user interface.
-3. Install NumPy: Run the command `conda install numpy`
-4. Install Pandas: Run the command `conda install pandas`
-5. Install Matplotlib: Run the command `conda install matplotlib`
+
+Here are a few more packages that we will definitely be needing.
+
+4. Install NumPy: Run the command `conda install numpy`
+5. Install Pandas: Run the command `conda install pandas`
+6. Install Matplotlib: Run the command `conda install matplotlib`
+
+We'll be installing more packages as we go, but the above are some basic packages for data analysis. 
 
 ## Resources
 * [Python Challenges](http://www.pythonchallenge.com): Fun! Will test your Python skills.
