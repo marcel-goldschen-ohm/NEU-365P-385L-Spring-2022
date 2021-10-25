@@ -64,104 +64,55 @@ TBA
 
 Most homework will be in the form of Jupyter notebooks. Homework assignments will be posted on Canvas where you will be required to upload the completed notebook file. :warning: **Be sure to name the file `your_full_name.ipynb`.** :warning: **All homework is due by midnight on the due date**. Note that uploading to Canvas can sometimes be less than instantaneous, so DON'T WAIT UNTIL ONE MINUTE BEFORE MIDNIGHT ON THE DEADLINE TO SUBMIT. Late homework is NOT acceptable.
 
+* Python basics
+* NumPy arrays and plotting
+* Random walks
+* Pseudocode and algorithm
+* Bootstrap
+* Permutation test
+* Maximum Likelihood Estimation
+* Time series and filtering
+* Hidden Markov Model
+* Linear regression
+* Ridge or lasso regression
+* Nonlinear regression
+* Classification and clustering
+* Principal Component Analysis
+* Neural Network
+
 ## Syllabus
 
-* Jan-19: **Introduction to programming, Python, and Jupyter notebooks**
-    * You will appreciate the need for programming in modern neuroscience.
-    * You will be introduced to some good rules of thumb for programming.
-    * You will be able to run Python code in the Jupyter notebook environment.
-    * You will be able to assign variables.
-    * You will be able to logically compare variables and values.
-    * You will understand Python code blocks.
-    * You will understand how code blocks can be nested.
-    * You will be able to conditionally execute code blocks.
-* Jan-21: **Lists and loops**
-    * You will be able to index into lists.
-    * You will be able to edit lists.
-    * You will be able to iterate over lists.
-    * You will understand the difference between a reference and a copy.
-
-* Jan-26: **NumPy**
-    * You will be able to import and us the numpy module.
-    * You will be able to manipulate multi-dimensional data arrays using NumPy.
-    * You will be able to time your code.
-    * You will appreciate that without NumPy, Python would NOT be a very useful language for data analysis.
-* Jan-28: **Pandas**
-    * You will be able to visualize and manipulate tablular data similar to that in a spread sheet.
-    * You will be able to convert data back and forth between standard spread sheet files and Pandas.
-
-* Feb-02: **Visualizing data**
-    * You will be able to visualize data with basic plots using Matplotlib.
-* Feb-04: **Random walks**
-    * You will be able to generate random numbers.
-    * You will apply everything you've learned up to this point to simulate random walks in various dimensions and visualize them.
-    * You will appreciate the role of randomness in molecular diffusion.
-
-* Feb-09: **Functions, classes and modules**
-    * You will be able to understand and write your own Python functions.
-    * You will understand the basics of Python class objects.
-    * You will be able to write and use your own classes.
-    * You will understand the basics of Python modules.
-    * You will be able to write and use your own modules.
-* Feb-11: **Algorithms, pseudocode and optimization with Numba**
-    * You will practice writing pseudocode for several algorithms.
-    * You will practice translating your pseudocode to code.
-    * You will be able to use Numba to potentially accelerate your functions.
-
-* Feb-16: CANCELED DUE TO WINTER STORM
-* Feb-18: CANCELED DUE TO WINTER STORM
-
-* Feb-23: CANCELED DUE TO WINTER STORM
-* Feb-25: **Probability distributions of random variables**
-    * You will understand the difference between discrete and continuous probability distributions.
-    * You will understand the difference between a probability and a probability density.
-    * You will be able to use the SciPy stats module to work with probability distributions.
-    * You will know under what circumstances you might apply binomial, Poisson, exponential or normal distributions.
-
-* Mar-02: **Hypothesis testing**
-    * You will understand the difference between a population distribution and a distribution of sample statistics.
-    * You will be introduced to the Central Limit theorem.
-    * You will be able to compute a p-value and understand what it means.
-    * You will appreciate that statistical inference does not imply certainty.
-    * You will be able to compare normal-ish distributions using t-tests.
-    * You will be able to test for differences in two samples using a permutation test.
-* Mar-04: **Hypothesis testing and Bootstrap**
-    * You will be able to test for differences in two samples using a permutation test.
-    * You will be able to generate bootstrap confidence intervals.
-
-* Mar-09: **Time series, Fourier transform, convolution and filtering**
-    * You wil understand the difference between a time series and a distribution of random values.
-    * You will be able to use a Fourier transform to see the frequency representation of a time series.
-    * You will be able to visualize a time series as a spectrogram.
-    * You will understand the importance of sampling and aliasing artifacts.
-    * You will be able to convolve and filter a time series.
-* Mar-11: **MIDTERM EXAM**
-
-* Mar-16: SPRING BREAK
-* Mar-18: SPRING BREAK
-
-* Mar-23: **Curve fitting and Maximum likelihood estimation**
-* Mar-25: **Hidden Markov models**
-
-* Mar-30: **Hidden Markov models**
-* Apr-01: **Hidden Markov models**
-
-* Apr-06: **Linear regression**
-* Apr-08: **Multiple linear regression**
-
-* Apr-13: **Ridge and lasso regression**
-* Apr-15: **Cross validation**
-
-* Apr-20: **Nonlinear regression**
-* Apr-22: **Classification**
-
-* Apr-27: **Principal component analysis**
-* Apr-29: **Principal component analysis**
-
-* May-04: TBA
-* May-06: TBA
-
-* May-18: **FINAL EXAM** 2:00-5:00 PM
+* Course overview and introduction to the Python and Jupyter notebook ecosystem
+* Python basics
+* NumPy data arrays
+* Visualizing data and Pandas data tables
+* Random walk lab
+* Random walk lab 2
+* Functions, classes and modules
+* Pseudocode and optimization with Numba
+* Probability distributions of random variables and the Central Limit Theorem
+* Hypothesis testing, p-values and Bootstrap confidence intervals
+* Permutation test
+* Maximum Likelihood Estimation
+* Curve fitting
+* Time series, Fourier transform and filtering
+* Convolution and filtering
+* Hidden Markov Models
+* Hidden Markov Model lab
+* Midterm Exam
+* Linear regression
+* Ridge and lasso regression
+* Cross validation
+* Nonlinear regression
+* General Linear Models
+* Regression lab
+* Classification and clustering
+* Principal Component Analysis
+* Principal Component Analysis lab
+* Neural Networks
+* Neural Network lab
+* Deep Learning
+* Final Exam
 
 ## Install Python (required)
 1. Get the Anaconda Python distribution (**latest version 3.x**) from https://www.anaconda.com/download and just follow the install steps. Anaconda comes with a bunch of useful scientific libraries such as Numpy and Scipy that you would otherwise have to install yourself.
