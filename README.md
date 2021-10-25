@@ -1,7 +1,7 @@
 # NEU-365P-385L-Spring-2022
 Programming and Data Analysis for Modern Neuroscience, Spring 2022
 
-:warning: **!!! PLEASE INSTALL PYTHON PRIOR TO THE FIRST CLASS**. See the installation instructions near the end of this document.
+:warning: **!!! INSTALL Python 3.x and Jupyterlab PRIOR TO THE FIRST CLASS !!!**. See the installation instructions near the end of this document.
 
 ## Course Objective
 
