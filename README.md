@@ -123,9 +123,9 @@ This is not the only way to install and/or manage your Python environment, but i
 
 Here are a few more packages that we will definitely be needing.
 
-4. Install NumPy: Run the command `conda install numpy`
-5. Install Pandas: Run the command `conda install pandas`
-6. Install Matplotlib: Run the command `conda install matplotlib`
+3. Install NumPy: Run the command `conda install numpy`
+4. Install Pandas: Run the command `conda install pandas`
+5. Install Matplotlib: Run the command `conda install matplotlib`
 
 We'll be installing more packages as we go, but the above are some basic packages for data analysis. 
 
