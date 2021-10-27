@@ -31,8 +31,8 @@ There are no prerequisites for the course. *However, you are expected to be fami
 
 ## Course Details
 
-* Time: TBA
-* Location: TBA
+* Time: TTH 2:00-3:30 PM
+* Location: BUR 208
 * Instructor: Marcel Goldschen-Ohm
     * Office hours (zoom only): TBA (see Canvas announcement for Zoom link)
     * Email: goldschen-ohm@utexas.edu (**!!! Please include `neu365-2022` or `neu385-2022` in the subject line**)
