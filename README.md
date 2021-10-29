@@ -82,6 +82,8 @@ Most homework will be in the form of Jupyter notebooks. Homework assignments wil
 
 ## Syllabus
 
+Below each topic I've listed a few links to additional information.
+
 * Course overview and introduction to the Python and Jupyter notebook ecosystem
 * Python basics
     * [Python Beginner Tutorials](https://www.tutorialsteacher.com/python)
