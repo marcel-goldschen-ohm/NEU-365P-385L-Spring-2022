@@ -145,3 +145,4 @@ We'll be installing more packages as we go, but the above are some basic package
 * [Statistics Done Wrong](https://www.statisticsdonewrong.com): **MUST READ!!!**
 * [Modern Machine Learning Algorithms: Strengths and Weaknesses](https://elitedatascience.com/machine-learning-algorithms) Breif overview of some machine learning algorithms with strengths and weaknesses to put them in context.
 * [An Introduction to Statistical Learning](https://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf): Nice intro to fairly complex statistical methods with very little math. **Highly recommend!** Example code is in R, but explanations are helpful in general. Note that this is a bit longer and more indepth than the options above. **This is more about understanding statistical methods than coding.**
+* https://github.com/cs109/content
