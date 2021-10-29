@@ -84,9 +84,9 @@ Most homework will be in the form of Jupyter notebooks. Homework assignments wil
 
 * Course overview and introduction to the Python and Jupyter notebook ecosystem
 * Python basics
-    * [The Hitchhiker's Guide to Python](https://docs.python-guide.org/intro/learning/)
     * [Python Beginner Tutorials](https://www.tutorialsteacher.com/python)
     * [Python Basics](https://www.learnpython.org)
+    * [The Hitchhiker's Guide to Python](https://docs.python-guide.org/intro/learning/)
 * NumPy data arrays
 * Visualizing data and Pandas data tables
 * Random walk lab
