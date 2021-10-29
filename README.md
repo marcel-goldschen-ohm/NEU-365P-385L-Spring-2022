@@ -130,6 +130,7 @@ Here are a few more packages that we will definitely be needing.
 We'll be installing more packages as we go, but the above are some basic packages for data analysis. 
 
 ## Resources
+* [Python Beginner Basics](https://www.tutorialsteacher.com/python)
 * [Python Challenges](http://www.pythonchallenge.com): Fun! Will test your Python skills.
 * [Computational and Inferential Thinking](https://www.inferentialthinking.com): Quick course on statistics and Python with examples. **This is a good place to start.**
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook): Explanations and examples. **This is also a good first learning tool.**
