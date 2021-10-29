@@ -89,6 +89,7 @@ Below each topic I've listed a few links to additional information.
     * [Python Beginner Tutorials](https://www.tutorialsteacher.com/python)
     * [Python Basics](https://www.learnpython.org)
     * [The Hitchhiker's Guide to Python](https://docs.python-guide.org/intro/learning/)
+    * [More Python Tutorials](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers)
     * [Python Tutor](https://pythontutor.com)
 * NumPy data arrays
 * Visualizing data and Pandas data tables
