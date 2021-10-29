@@ -84,6 +84,7 @@ Most homework will be in the form of Jupyter notebooks. Homework assignments wil
 
 * Course overview and introduction to the Python and Jupyter notebook ecosystem
 * Python basics
+    * See also: [Python Beginner Basics](https://www.tutorialsteacher.com/python)
 * NumPy data arrays
 * Visualizing data and Pandas data tables
 * Random walk lab
