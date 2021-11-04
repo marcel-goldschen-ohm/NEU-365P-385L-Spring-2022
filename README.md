@@ -86,7 +86,7 @@ Below each topic I've listed a few links to additional information.
 
 * Course overview and introduction to the Python and Jupyter notebook ecosystem
 * Python basics
-    * Additional Resources: [Python Beginner Tutorials](https://www.tutorialsteacher.com/python), [Python Basics](https://www.learnpython.org), [The Hitchhiker's Guide to Python](https://docs.python-guide.org/intro/learning/), [More Python Tutorials](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers), [Python Tutor](https://pythontutor.com) (I'm sure there are many more basic Python tutorials out there. If you happen to know of a particularly good one, please let me know about it.)
+    * Additional Resources: [Python Beginner Tutorials](https://www.tutorialsteacher.com/python), [Python Basics](https://www.learnpython.org), [The Hitchhiker's Guide to Python](https://docs.python-guide.org/intro/learning/), [More Python Tutorials](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers), [Python Tutor](https://pythontutor.com). I'm sure there are many more basic Python tutorials out there. If you happen to know of a particularly good one, please let me know about it.
 * NumPy data arrays
 * Visualizing data and Pandas data tables
 * Random walk lab
