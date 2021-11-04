@@ -19,7 +19,7 @@ We will cover a wide array of topics rather than explore any one topic in great 
 
 ## Course Prerequisites
 
-There are no prerequisites for the course. *However, you are expected to be familiar with basic mathematical functions and concepts, and you will be asked to perform quantitative calcualtions.*
+There are no prerequisites for the course. *However, you are expected to be familiar with basic mathematical functions and concepts, and you will be asked to perform quantitative calculations.*
 
 ## Requirements
 
