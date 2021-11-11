@@ -100,7 +100,7 @@ Below each topic I've listed a few links to additional information. If you happe
     * `conda install seaborn`
     * `conda install -c conda-forge dtale`
     * `conda install -c conda-forge pandasgui`
-    * Additional Resources: [Intro to Pandas](https://pandas.pydata.org/docs/getting_started/index.html), [seaborn](https://seaborn.pydata.org), [D-Tale](https://github.com/man-group/dtale), [D-Tale Tutorial](https://www.analyticsvidhya.com/blog/2021/06/exploring-pandas-dataframe-with-d-tale/), [PandasGUI](https://github.com/adamerose/PandasGUI), [PandasGUI Tutorial](https://www.analyticsvidhya.com/blog/2021/07/everything-you-need-to-know-about-pandasgui/), [Kaggle Database](https://www.kaggle.com)
+    * Additional Resources: [Intro to Pandas](https://pandas.pydata.org/docs/getting_started/index.html), [Seaborn](https://seaborn.pydata.org), [D-Tale](https://github.com/man-group/dtale), [D-Tale Tutorial](https://www.analyticsvidhya.com/blog/2021/06/exploring-pandas-dataframe-with-d-tale/), [PandasGUI](https://github.com/adamerose/PandasGUI), [PandasGUI Tutorial](https://www.analyticsvidhya.com/blog/2021/07/everything-you-need-to-know-about-pandasgui/), [Kaggle Database](https://www.kaggle.com)
 * Feb-03-R: Exploratory data analysis lab
 * Feb-08-T: Functions, classes and modules
 * Feb-10-R: Algorithms, pseudocode, and optimization with Numba
