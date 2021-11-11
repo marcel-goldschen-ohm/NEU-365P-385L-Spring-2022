@@ -88,7 +88,7 @@ Below each topic I've listed a few links to additional information. If you happe
 * Jan-20-R: Python basics
     * Additional Resources: [Python Beginner Tutorials](https://www.tutorialsteacher.com/python), [Python Basics](https://www.learnpython.org), [The Hitchhiker's Guide to Python](https://docs.python-guide.org/intro/learning/), [More Python Tutorials](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers), [Python Tutor](https://pythontutor.com).
 * Jan-25-T: NumPy data arrays and basic plotting
-    * Additional Resources: [NumPy](https://numpy.org), [A Visual Intro to NumPy](https://jalammar.github.io/visual-numpy/), [Matplotlib](https://matplotlib.org)
+    * Additional Resources: [NumPy](https://numpy.org), :star: A Visual Intro to NumPy](https://jalammar.github.io/visual-numpy/), [Matplotlib](https://matplotlib.org)
 * Jan-27-R: Random walk lab
     * Additional Resources: [Diffusion and Random Walks](https://www.uio.no/studier/emner/matnat/fys/FYS2160/h17/simuleringsopgaver/virrevandrer_diffusjon.pdf)
 * Feb-01-T: Visual data exploration and Pandas data tables
