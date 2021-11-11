@@ -84,41 +84,43 @@ Note that the syllabus is subject to change at anytime, so check back often. Thi
 
 Below each topic I've listed a few links to additional information. If you happen to know of a particularly good resource that is not listed, please let me know about it and share it with your fellow students on the course's Canvas discussion board.
 
-* Course overview and introduction to the Python and Jupyter ecosystem
+* Jan-18-T: Course overview and introduction to the Python and Jupyter ecosystem
     * Additional Resources: [What can I do with Python?](https://realpython.com/what-can-i-do-with-python/), [Intro to Jupyter and JupyterLab](https://coderefinery.github.io/jupyter/)
-* Python basics
+* Jan-20-R: Python basics
     * Additional Resources: [Python Beginner Tutorials](https://www.tutorialsteacher.com/python), [Python Basics](https://www.learnpython.org), [The Hitchhiker's Guide to Python](https://docs.python-guide.org/intro/learning/), [More Python Tutorials](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers), [Python Tutor](https://pythontutor.com).
-* NumPy data arrays
+* Jan-25-T: NumPy data arrays
     * Additional Resources: [A Visual Intro to NumPy](https://jalammar.github.io/visual-numpy/)
-* Visual data exploration and Pandas data tables
+* Jan-27-R: Visual data exploration and Pandas data tables
     * Additional Resources: [D-Tale](https://github.com/man-group/dtale), [D-Tale Tutorial](https://www.analyticsvidhya.com/blog/2021/06/exploring-pandas-dataframe-with-d-tale/), [PandasGUI](https://github.com/adamerose/PandasGUI), [PandasGUI Tutorial](https://www.analyticsvidhya.com/blog/2021/07/everything-you-need-to-know-about-pandasgui/), [Kaggle Database](https://www.kaggle.com)
-* Random walk lab
-* Random walk lab 2
-* Functions, classes and modules
-* Algorithms, pseudocode, and optimization with Numba
-* Probability distributions of random variables and the Central Limit Theorem
-* Hypothesis testing, p-values and Bootstrap confidence intervals
-* Permutation test
-* Maximum Likelihood Estimation
-* Curve fitting
-* Time series, Fourier transform and filtering
-* Convolution, filtering and image analysis
-* Hidden Markov Models
-* Hidden Markov Model lab
-* Midterm Exam
-* Linear regression
-* Ridge and lasso regression
-* Cross validation
-* Nonlinear regression
-* General Linear Models
-* Regression lab
-* Classification and clustering
-* Principal Component Analysis
-* Principal Component Analysis lab
-* Neural Networks
-* Neural Network lab
-* Deep Learning
-* Final Exam
+* Feb-01-T: Random walk lab
+* Feb-03-R: Random walk lab 2
+* Feb-08-T: Functions, classes and modules
+* Feb-10-R: Algorithms, pseudocode, and optimization with Numba
+* Feb-15-T: Probability distributions of random variables and the Central Limit Theorem
+* Feb-17-R: Hypothesis testing, p-values and Bootstrap confidence intervals
+* Feb-22-T: Permutation test
+* Feb-24-R: Maximum Likelihood Estimation
+* Mar-01-T: Curve fitting
+* Mar-03-R: Time series, Fourier transform and filtering
+* Mar-08-T: Convolution, filtering and image analysis
+* Mar-10-R: Hidden Markov Models
+* Mar-15-T: SPRING BREAK
+* Mar-17-R: SPRING BREAK
+* Mar-22-T: Hidden Markov Model lab
+* Mar-24-R: Midterm Exam
+* Mar-29-T: Linear regression
+* Mar-31-R: Ridge and lasso regression
+* Apr-05-T: Cross validation
+* Apr-07-R: Nonlinear regression
+* Apr-12-T: General Linear Models
+* Apr-14-R: Regression lab
+* Apr-19-T: Classification and clustering
+* Apr-21-R: Principal Component Analysis
+* Apr-26-T: Principal Component Analysis lab
+* Apr-28-R: Neural Networks
+* May-03-T: Neural Network lab
+* May-05-R: Deep Learning
+* May-??-?: Final Exam
 
 ## Install Python (required)
 
