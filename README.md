@@ -84,14 +84,17 @@ Note that the syllabus is subject to change at anytime, so check back often. Thi
 Below each topic I've listed a few links to additional information. If you happen to know of a particularly good resource that is not listed, please let me know about it and share it with your fellow students on the course's Canvas discussion board.
 
 * Jan-18-T: Course overview and introduction to the Python and Jupyter ecosystem
-    * Additional Resources: [What can I do with Python?](https://realpython.com/what-can-i-do-with-python/), [Intro to Jupyter and JupyterLab](https://coderefinery.github.io/jupyter/)
+    * `conda install -c conda-forge jupyterlab`
+    * Additional Resources: [What can I do with Python?](https://realpython.com/what-can-i-do-with-python/), [Miniconda](https://docs.conda.io/en/latest/miniconda.html), [Intro to Jupyter and JupyterLab](https://coderefinery.github.io/jupyter/)
 * Jan-20-R: Python basics
     * Additional Resources: [Python Beginner Tutorials](https://www.tutorialsteacher.com/python), [Python Basics](https://www.learnpython.org), [The Hitchhiker's Guide to Python](https://docs.python-guide.org/intro/learning/), [More Python Tutorials](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers), [Python Tutor](https://pythontutor.com).
 * Jan-25-T: NumPy data arrays and basic plotting
+    * `conda install numpy`
     * Additional Resources: [NumPy](https://numpy.org), :star:[A Visual Intro to NumPy](https://jalammar.github.io/visual-numpy/), [Matplotlib](https://matplotlib.org)
 * Jan-27-R: Random walk lab
     * Additional Resources: [Diffusion and Random Walks](https://www.uio.no/studier/emner/matnat/fys/FYS2160/h17/simuleringsopgaver/virrevandrer_diffusjon.pdf)
 * Feb-01-T: Visual data exploration and Pandas data tables
+    * `conda install pandas`, `conda install -c conda-forge dtale`, `conda install -c conda-forge pandasgui`
     * Additional Resources: [D-Tale](https://github.com/man-group/dtale), [D-Tale Tutorial](https://www.analyticsvidhya.com/blog/2021/06/exploring-pandas-dataframe-with-d-tale/), [PandasGUI](https://github.com/adamerose/PandasGUI), [PandasGUI Tutorial](https://www.analyticsvidhya.com/blog/2021/07/everything-you-need-to-know-about-pandasgui/), [Kaggle Database](https://www.kaggle.com)
 * Feb-03-R: 
 * Feb-08-T: Functions, classes and modules
