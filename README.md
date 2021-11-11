@@ -120,7 +120,7 @@ Below each topic I've listed a few links to additional information. If you happe
 * Apr-28-R: Neural Networks
 * May-03-T: Neural Network lab
 * May-05-R: Deep Learning
-* May-??-?: Final Exam
+* May-11-W: Final Exam 9:00 am-12:00 noon
 
 ## Install Python (required)
 
