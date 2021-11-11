@@ -67,7 +67,7 @@ Most homework will be in the form of Jupyter notebooks. Homework assignments wil
 * Python basics
 * NumPy arrays and plotting
 * Random walks
-* Pseudocode and algorithm
+* Algorithms
 * Bootstrap
 * Permutation test
 * Maximum Likelihood Estimation
@@ -92,7 +92,7 @@ Below each topic I've listed a few links to additional information.
 * Random walk lab
 * Random walk lab 2
 * Functions, classes and modules
-* Pseudocode and optimization with Numba
+* Algorithms, pseudocode, and optimization with Numba
 * Probability distributions of random variables and the Central Limit Theorem
 * Hypothesis testing, p-values and Bootstrap confidence intervals
 * Permutation test
