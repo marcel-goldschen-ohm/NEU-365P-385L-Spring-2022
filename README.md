@@ -91,39 +91,43 @@ Below each topic I've listed a few links to additional information. If you happe
     * Additional Resources: [Python Beginner Tutorials](https://www.tutorialsteacher.com/python), [Python Basics](https://www.learnpython.org), [The Hitchhiker's Guide to Python](https://docs.python-guide.org/intro/learning/), [More Python Tutorials](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers), [Python Tutor](https://pythontutor.com).
 * Jan-25-T: NumPy data arrays and basic plotting
     * `conda install numpy`
+    * `conda install matplotlib`
     * Additional Resources: [NumPy](https://numpy.org), :star:[A Visual Intro to NumPy](https://jalammar.github.io/visual-numpy/), [Matplotlib](https://matplotlib.org)
 * Jan-27-R: Random walk lab
     * Additional Resources: [Diffusion and Random Walks](https://www.uio.no/studier/emner/matnat/fys/FYS2160/h17/simuleringsopgaver/virrevandrer_diffusjon.pdf)
 * Feb-01-T: Visual data exploration and Pandas data tables
-    * `conda install pandas`, `conda install -c conda-forge dtale`, `conda install -c conda-forge pandasgui`
-    * Additional Resources: [D-Tale](https://github.com/man-group/dtale), [D-Tale Tutorial](https://www.analyticsvidhya.com/blog/2021/06/exploring-pandas-dataframe-with-d-tale/), [PandasGUI](https://github.com/adamerose/PandasGUI), [PandasGUI Tutorial](https://www.analyticsvidhya.com/blog/2021/07/everything-you-need-to-know-about-pandasgui/), [Kaggle Database](https://www.kaggle.com)
-* Feb-03-R: 
+    * `conda install pandas`
+    * `conda install seaborn`
+    * `conda install -c conda-forge dtale`
+    * `conda install -c conda-forge pandasgui`
+    * Additional Resources: [Intro to Pandas](https://pandas.pydata.org/docs/getting_started/index.html), [seaborn](https://seaborn.pydata.org), [D-Tale](https://github.com/man-group/dtale), [D-Tale Tutorial](https://www.analyticsvidhya.com/blog/2021/06/exploring-pandas-dataframe-with-d-tale/), [PandasGUI](https://github.com/adamerose/PandasGUI), [PandasGUI Tutorial](https://www.analyticsvidhya.com/blog/2021/07/everything-you-need-to-know-about-pandasgui/), [Kaggle Database](https://www.kaggle.com)
+* Feb-03-R: Exploratory data analysis lab
 * Feb-08-T: Functions, classes and modules
 * Feb-10-R: Algorithms, pseudocode, and optimization with Numba
 * Feb-15-T: Probability distributions of random variables and the Central Limit Theorem
-* Feb-17-R: Hypothesis testing, p-values and Bootstrap confidence intervals
-* Feb-22-T: Permutation test
-* Feb-24-R: Maximum Likelihood Estimation
-* Mar-01-T: Curve fitting
-* Mar-03-R: Time series, Fourier transform and filtering
-* Mar-08-T: Convolution, filtering and image analysis
-* Mar-10-R: Hidden Markov Models
+* Feb-17-R: Hypothesis testing, p-values, and Bootstrap confidence intervals
+* Feb-22-T: Permutation test, K-S test, and QQ plots
+* Feb-24-R: Minimizer, and Maximum Likelihood Estimation
+* Mar-01-T: Time series, Fourier transform and filtering
+* Mar-03-R: Convolution, filtering and image analysis
+* Mar-08-T: Hidden Markov Models
+* Mar-10-R: Hidden Markov Model lab
 * Mar-15-T: SPRING BREAK
 * Mar-17-R: SPRING BREAK
-* Mar-22-T: Hidden Markov Model lab
-* Mar-24-R: Midterm Exam
-* Mar-29-T: Linear regression
-* Mar-31-R: Ridge and lasso regression
-* Apr-05-T: Cross validation
-* Apr-07-R: Nonlinear regression
-* Apr-12-T: General Linear Models
-* Apr-14-R: Regression lab
-* Apr-19-T: Classification and clustering
-* Apr-21-R: Principal Component Analysis
-* Apr-26-T: Principal Component Analysis lab
-* Apr-28-R: Neural Networks
-* May-03-T: Neural Network lab
-* May-05-R: Deep Learning
+* Mar-22-T: Linear regression
+* Mar-24-R: Ridge and lasso regression
+* Mar-29-T: Cross validation
+* Mar-31-R: Nonlinear regression
+* Apr-05-T: General Linear Models
+* Apr-07-R: Regression lab
+* Apr-12-T: Classification and clustering
+* Apr-14-R: Classification and clustering lab
+* Apr-19-T: Principal Component Analysis
+* Apr-21-R: Principal Component Analysis lab
+* Apr-26-T: Neural Networks
+* Apr-28-R: Neural Network lab
+* May-03-T: Deep Learning
+* May-05-R: Deep Learning lab
 * May-11-W: Final Exam 9:00 am-12:00 noon
 
 ## Install Python (required)
