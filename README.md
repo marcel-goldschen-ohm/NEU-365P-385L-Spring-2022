@@ -88,7 +88,7 @@ Below each topic I've listed a few links to additional information. If you happe
 * Python basics
     * Additional Resources: [Python Beginner Tutorials](https://www.tutorialsteacher.com/python), [Python Basics](https://www.learnpython.org), [The Hitchhiker's Guide to Python](https://docs.python-guide.org/intro/learning/), [More Python Tutorials](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers), [Python Tutor](https://pythontutor.com).
 * NumPy data arrays
-    * Additional Resources: [NumPy basics with pictures](https://jalammar.github.io/visual-numpy/)
+    * Additional Resources: [A Visual Intro to NumPy](https://jalammar.github.io/visual-numpy/)
 * Visualizing data and Pandas data tables
 * Random walk lab
 * Random walk lab 2
