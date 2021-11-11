@@ -84,6 +84,7 @@ Note that the syllabus is subject to change at anytime, so check back often. Thi
 Below each topic I've listed a few links to additional information. If you happen to know of a particularly good resource that is not listed, please let me know about it and share it with your fellow students on the course's Canvas discussion board.
 
 * Jan-18-T: Course overview and introduction to the Python and Jupyter ecosystem
+    * Install [Python and Conda](https://docs.conda.io/en/latest/miniconda.html) (see instructions at bottom of page)
     * `conda install -c conda-forge jupyterlab`
     * Additional Resources: [What can I do with Python?](https://realpython.com/what-can-i-do-with-python/), [Miniconda](https://docs.conda.io/en/latest/miniconda.html), [Intro to Jupyter and JupyterLab](https://coderefinery.github.io/jupyter/)
 * Jan-20-R: Python basics
