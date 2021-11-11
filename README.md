@@ -88,9 +88,9 @@ Below each topic I've listed a few links to additional information. If you happe
 * Jan-20-R: Python basics
     * Additional Resources: [Python Beginner Tutorials](https://www.tutorialsteacher.com/python), [Python Basics](https://www.learnpython.org), [The Hitchhiker's Guide to Python](https://docs.python-guide.org/intro/learning/), [More Python Tutorials](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers), [Python Tutor](https://pythontutor.com).
 * Jan-25-T: NumPy data arrays and basic plotting
-    * Additional Resources: [A Visual Intro to NumPy](https://jalammar.github.io/visual-numpy/)
+    * Additional Resources: [NumPy](https://numpy.org), [A Visual Intro to NumPy](https://jalammar.github.io/visual-numpy/), [Matplotlib](https://matplotlib.org)
 * Jan-27-R: Random walk lab
-    * Additional Resources: [Matplotlib](https://matplotlib.org)
+    * Additional Resources: [Diffusion and Random Walks](https://www.uio.no/studier/emner/matnat/fys/FYS2160/h17/simuleringsopgaver/virrevandrer_diffusjon.pdf)
 * Feb-01-T: Visual data exploration and Pandas data tables
     * Additional Resources: [D-Tale](https://github.com/man-group/dtale), [D-Tale Tutorial](https://www.analyticsvidhya.com/blog/2021/06/exploring-pandas-dataframe-with-d-tale/), [PandasGUI](https://github.com/adamerose/PandasGUI), [PandasGUI Tutorial](https://www.analyticsvidhya.com/blog/2021/07/everything-you-need-to-know-about-pandasgui/), [Kaggle Database](https://www.kaggle.com)
 * Feb-03-R: 
