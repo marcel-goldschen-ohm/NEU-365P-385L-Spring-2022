@@ -85,6 +85,7 @@ Note that the syllabus is subject to change at anytime, so check back often. Thi
 Below each topic I've listed a few links to additional information. If you happen to know of a particularly good resource that is not listed, please let me know about it and share it with your fellow students on the course's Canvas discussion board.
 
 * Course overview and introduction to the Python and Jupyter ecosystem
+    * Additional Resources: [What can I do with Python?](https://realpython.com/what-can-i-do-with-python/)
 * Python basics
     * Additional Resources: [Python Beginner Tutorials](https://www.tutorialsteacher.com/python), [Python Basics](https://www.learnpython.org), [The Hitchhiker's Guide to Python](https://docs.python-guide.org/intro/learning/), [More Python Tutorials](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers), [Python Tutor](https://pythontutor.com).
 * NumPy data arrays
