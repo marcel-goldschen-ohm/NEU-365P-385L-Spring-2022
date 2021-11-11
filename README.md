@@ -90,6 +90,7 @@ Below each topic I've listed a few links to additional information. If you happe
 * NumPy data arrays
     * Additional Resources: [A Visual Intro to NumPy](https://jalammar.github.io/visual-numpy/)
 * Visualizing data and Pandas data tables
+    * Additional Resources: [D-Tale](https://github.com/man-group/dtale), [D-Tale Tutorial](https://www.analyticsvidhya.com/blog/2021/06/exploring-pandas-dataframe-with-d-tale/), [PandasGUI](https://github.com/adamerose/PandasGUI), [PandasGUI Tutorial](https://www.analyticsvidhya.com/blog/2021/07/everything-you-need-to-know-about-pandasgui/)
 * Random walk lab
 * Random walk lab 2
 * Functions, classes and modules
