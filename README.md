@@ -34,11 +34,9 @@ There are no prerequisites for the course. *However, you are expected to be fami
 * Time: TTH 2:00-3:30 PM
 * Location: BUR 208
 * Instructor: Marcel Goldschen-Ohm
-    * Office hours (zoom only): TBA (see Canvas announcement for Zoom link)
-    * Email: goldschen-ohm@utexas.edu (**!!! Please include `neu365-2022` or `neu385-2022` in the subject line**)
 * TA: TBA
-    * Office hours (zoom only): TBA (see Canvas announcement for Zoom link)
-    * Email: TBA (**!!! Please include `neu365-2022` or `neu385-2022` in the subject line**)
+* Office hours (Zoom only): See Canvas announcement.
+* Contact: Please contact myself or the TA via Canvas. (**!!! If you email me directly, please include `neu365-2022` or `neu385-2022` in the subject line**)
  
 ## I'm confused, but my schedule makes attending office hours difficult. What do I do?
 
