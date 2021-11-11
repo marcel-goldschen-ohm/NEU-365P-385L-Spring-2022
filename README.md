@@ -80,6 +80,8 @@ Most homework will be in the form of Jupyter notebooks. Homework assignments wil
 
 ## Syllabus
 
+Note that the syllabus is subject to change at anytime, so check back often. This is so I can offer you a more polished experience by adjusting to your performance and feedback as we go along.
+
 Below each topic I've listed a few links to additional information. If you happen to know of a particularly good resource that is not listed, please let me know about it and share it with your fellow students on the course's Canvas discussion board.
 
 * Course overview and introduction to the Python and Jupyter ecosystem
@@ -97,7 +99,7 @@ Below each topic I've listed a few links to additional information. If you happe
 * Maximum Likelihood Estimation
 * Curve fitting
 * Time series, Fourier transform and filtering
-* Convolution and filtering
+* Convolution, filtering and image analysis
 * Hidden Markov Models
 * Hidden Markov Model lab
 * Midterm Exam
