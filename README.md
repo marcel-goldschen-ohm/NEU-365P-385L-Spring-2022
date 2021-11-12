@@ -117,6 +117,8 @@ Below each topic I've listed a few links to additional information. If you happe
 * Mar-01-T: Time series, Fourier transform and filtering
 * Mar-03-R: Convolution, filtering and image analysis
 * Mar-08-T: Hidden Markov Models
+    * `conda install pomegranate`
+    * Additional Resources: [Pomegranate](https://github.com/jmschrei/pomegranate)
 * Mar-10-R: Hidden Markov Model lab
 * Mar-15-T: SPRING BREAK
 * Mar-17-R: SPRING BREAK
