@@ -107,6 +107,8 @@ Below each topic I've listed a few links to additional information. If you happe
      * `conda install numba`
      * Additional Resources: [Numba](http://numba.pydata.org)
 * Feb-15-T: Probability distributions of random variables and the Central Limit Theorem
+    * `conda install scipy`
+    * Additional Resources: [SciPy](https://scipy.org)
 * Feb-17-R: Hypothesis testing, p-values, and Bootstrap confidence intervals
 * Feb-22-T: Permutation test, K-S test, and QQ plots
 * Feb-24-R: Minimizer, and Maximum Likelihood Estimation
