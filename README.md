@@ -119,6 +119,8 @@ Below each topic I've listed a few links to additional information. If you happe
 * Mar-15-T: SPRING BREAK
 * Mar-17-R: SPRING BREAK
 * Mar-22-T: Linear regression
+    * `conda install scikit-learn`
+    * Additional Resources: [Scikit-learn](https://scikit-learn.org/stable/)
 * Mar-24-R: Ridge and lasso regression
 * Mar-29-T: Cross validation
 * Mar-31-R: Nonlinear regression
