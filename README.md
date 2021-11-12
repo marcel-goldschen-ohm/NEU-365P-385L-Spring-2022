@@ -111,6 +111,8 @@ Below each topic I've listed a few links to additional information. If you happe
     * Additional Resources: [SciPy](https://scipy.org)
 * Feb-17-R: Minimization and Maximum Likelihood Estimation
 * Feb-22-T: Hypothesis testing, p-values, confidence intervals, and bootstrapping
+    * `conda install -c conda-forge statsmodels`
+    * Additional Resources: [Statsmodels](https://www.statsmodels.org/stable/index.html)
 * Feb-24-R: Permutation test, K-S test, and QQ plots
 * Mar-01-T: Time series, Fourier transform and filtering
 * Mar-03-R: Convolution, filtering and image analysis
