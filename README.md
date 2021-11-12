@@ -109,9 +109,9 @@ Below each topic I've listed a few links to additional information. If you happe
 * Feb-15-T: Probability distributions of random variables and the Central Limit Theorem
     * `conda install scipy`
     * Additional Resources: [SciPy](https://scipy.org)
-* Feb-17-R: Hypothesis testing, p-values, and Bootstrap confidence intervals
-* Feb-22-T: Permutation test, K-S test, and QQ plots
-* Feb-24-R: Minimizer, and Maximum Likelihood Estimation
+* Feb-17-R: Minimization and Maximum Likelihood Estimation
+* Feb-22-T: Hypothesis testing, p-values, confidence intervals, and bootstrapping
+* Feb-24-R: Permutation test, K-S test, and QQ plots
 * Mar-01-T: Time series, Fourier transform and filtering
 * Mar-03-R: Convolution, filtering and image analysis
 * Mar-08-T: Hidden Markov Models
@@ -124,8 +124,8 @@ Below each topic I've listed a few links to additional information. If you happe
 * Mar-31-R: Nonlinear regression
 * Apr-05-T: General Linear Models
 * Apr-07-R: Regression lab
-* Apr-12-T: Classification and clustering
-* Apr-14-R: Classification and clustering lab
+* Apr-12-T: Classification
+* Apr-14-R: Clustering
 * Apr-19-T: Principal Component Analysis
 * Apr-21-R: Principal Component Analysis lab
 * Apr-26-T: Neural Networks
