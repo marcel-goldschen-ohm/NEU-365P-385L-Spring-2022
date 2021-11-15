@@ -102,10 +102,10 @@ Below each topic I've listed a few links to additional information. If you happe
     * `conda install -c conda-forge pandasgui`
     * Additional Resources: [Intro to Pandas](https://pandas.pydata.org/docs/getting_started/index.html), [Seaborn](https://seaborn.pydata.org), [D-Tale](https://github.com/man-group/dtale), [D-Tale tutorial](https://www.analyticsvidhya.com/blog/2021/06/exploring-pandas-dataframe-with-d-tale/), [PandasGUI](https://github.com/adamerose/PandasGUI), [PandasGUI tutorial](https://www.analyticsvidhya.com/blog/2021/07/everything-you-need-to-know-about-pandasgui/), [Kaggle database](https://www.kaggle.com)
 * Feb-03-R: Exploratory data analysis lab
-* Feb-08-T: Functions, classes and modules
-* Feb-10-R: Algorithms, pseudocode, and optimization with Numba
+* Feb-08-T: Functions and optimization with Numba
      * `conda install numba`
      * Additional Resources: [Numba](http://numba.pydata.org)
+* Feb-10-R: Classes and modules
 * Feb-15-T: Probability distributions of random variables and the Central Limit Theorem
     * `conda install scipy`
     * Additional Resources: [SciPy](https://scipy.org)
