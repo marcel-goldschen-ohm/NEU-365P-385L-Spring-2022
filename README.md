@@ -60,22 +60,13 @@ TBA
 
 ## Homework :pencil2:
 
-Most homework will be in the form of Jupyter notebooks. Homework assignments will be posted on Canvas where you will be required to upload the completed notebook file. :warning: **Be sure to include your full name in the filename of each of your assignments (e.g. `assignment-your_full_name.ipynb`).** :warning: **All homework is due by midnight on the due date**. Note that uploading to Canvas can sometimes be less than instantaneous, so DON'T WAIT UNTIL ONE MINUTE BEFORE MIDNIGHT ON THE DEADLINE TO SUBMIT. Late homework is not acceptable.
+Most homework will be in the form of Jupyter notebooks.
 
-* Python basics
-* Random walks
-* Algorithms
-* Bootstrap
-* Permutation test
-* Maximum Likelihood Estimation
-* Time series and filtering
-* Hidden Markov Model
-* Linear regression
-* Ridge or lasso regression
-* Nonlinear regression
-* Classification and clustering
-* Principal Component Analysis
-* Neural Network
+Homework assignments will be posted on Canvas where you will be required to upload the completed notebook file. :warning: **Be sure to include your full name in the filename of each of your assignments (e.g. `assignment-your_full_name.ipynb`).**
+
+Homework is predominantly weekly, and you will usually have one week to complete the assignment. All homework is `due by midnight on the due date`. Note that uploading to Canvas can sometimes be less than instantaneous, so DON'T WAIT UNTIL ONE MINUTE BEFORE MIDNIGHT ON THE DEADLINE TO SUBMIT. Late homework is not acceptable.
+
+:exclamation: The course is fast paced, so keeping up with practicing the nearly weekly homework is critical for your success.
 
 ## Syllabus
 
@@ -84,6 +75,8 @@ Most homework will be in the form of Jupyter notebooks. Homework assignments wil
 :paperclip: = Additional Resources (please share if you know of a good resource not listed)
 
 Note that the syllabus is subject to change at anytime, so check back often. This is so I can offer you a more polished experience by adjusting to your performance and feedback as we go along.
+
+:exclamation: The course is fast paced, so keeping up with practicing the nearly weekly homework is critical for your success.
 
 ---
 * Jan-18-T: Course overview and introduction to the Python and Jupyter ecosystem
@@ -109,12 +102,14 @@ Note that the syllabus is subject to change at anytime, so check back often. Thi
     * `conda install -c conda-forge pandasgui`
     * :paperclip: [Intro to Pandas](https://pandas.pydata.org/docs/getting_started/index.html), [Seaborn](https://seaborn.pydata.org), [D-Tale](https://github.com/man-group/dtale), [D-Tale tutorial](https://www.analyticsvidhya.com/blog/2021/06/exploring-pandas-dataframe-with-d-tale/), [PandasGUI](https://github.com/adamerose/PandasGUI), [PandasGUI tutorial](https://www.analyticsvidhya.com/blog/2021/07/everything-you-need-to-know-about-pandasgui/), [Kaggle database](https://www.kaggle.com)
 * Feb-03-R: Exploratory data analysis lab
+    * :exclamation: No homework this week! If you find yourself behind, this is the time to catch up.
 ---
 * Feb-08-T: Functions and optimization with Numba
      * `conda install numba`
      * :paperclip: [Numba](http://numba.pydata.org)
 * Feb-10-R: Classes and modules
     * :pencil2: Your own module
+    * :exclamation: If you are still behind at this point, please contact me so we can get you back on track.
 ---
 * Feb-15-T: Probability distributions of random variables and the Central Limit Theorem
     * `conda install scipy`
