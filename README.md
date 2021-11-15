@@ -106,12 +106,11 @@ Note that the syllabus is subject to change at anytime, so check back often. Thi
     * `conda install -c conda-forge pandasgui`
     * :paperclip: [Intro to Pandas](https://pandas.pydata.org/docs/getting_started/index.html), [Seaborn](https://seaborn.pydata.org), [D-Tale](https://github.com/man-group/dtale), [D-Tale tutorial](https://www.analyticsvidhya.com/blog/2021/06/exploring-pandas-dataframe-with-d-tale/), [PandasGUI](https://github.com/adamerose/PandasGUI), [PandasGUI tutorial](https://www.analyticsvidhya.com/blog/2021/07/everything-you-need-to-know-about-pandasgui/), [Kaggle database](https://www.kaggle.com)
 * Feb-03-R: Exploratory data analysis lab
-    * :pencil2: Exploratory data analysis
 * Feb-08-T: Functions and optimization with Numba
      * `conda install numba`
      * :paperclip: [Numba](http://numba.pydata.org)
 * Feb-10-R: Classes and modules
-    * :pencil2: A simple project
+    * :pencil2: Your own module
 * Feb-15-T: Probability distributions of random variables and the Central Limit Theorem
     * `conda install scipy`
     * :paperclip: [SciPy](https://scipy.org)
