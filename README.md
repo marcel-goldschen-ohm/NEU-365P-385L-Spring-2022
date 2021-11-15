@@ -54,17 +54,33 @@ Along with the entire Department of Neuroscience, this course embraces a notion 
 
 * Students with disabilities may request appropriate academic accommodations from the Division of Diversity and Community Engagement, [Services for Students with Disabilities](http://www.utexas.edu/diversity/ddce/ssd/) (471-6259).
 
-## Grading
+## Grades
 
-TBA
+:exclamation: Homework constitutes the majority of your grade, so it is imperitive that you complete the homework on time in order to do well in this course.
+
+    A: 90-100%
+    B: 80-89%
+    C: 70-79%
+    D: 60-69%
+    F: <60%
+
+Depending on the distribution of scores, I may alter the above ranges to normalize to the difficulty of the assignments. If I do so, `any alteration will only be favorable to you` and never unfavorable. Note that in the case that I do change the ranges, I will NOT apply a curve to the letter grades. `I am very happy to give everyone an A if possible.`
+
+## Grading Rubric
+
+Most questions will be worth 3 points for which the grading rubric is:
+
+    +1 point for a remotely valid attempt
+    +2 points if there are only minor mistakes
+    +3 points if correctly addressed
 
 ## Homework :pencil2:
 
 Most homework will be in the form of Jupyter notebooks.
 
-Homework assignments will be posted on Canvas where you will be required to upload the completed notebook file. :warning: **Be sure to include your full name in the filename of each of your assignments (e.g. `assignment-your_full_name.ipynb`).**
+Homework assignments will be posted on `Canvas` where you will be required to upload the completed notebook file. Be sure to include your full name in the filename of each of your assignments (e.g. `assignment-your_full_name.ipynb`).
 
-Homework is predominantly weekly, and you will usually have one week to complete the assignment. All homework is `due by midnight on the due date`. Note that uploading to Canvas can sometimes be less than instantaneous, so DON'T WAIT UNTIL ONE MINUTE BEFORE MIDNIGHT ON THE DEADLINE TO SUBMIT. Late homework is not acceptable.
+Homework is predominantly weekly, and you will usually have one week to complete the assignment. All homework is `due by midnight on the due date`. Note that uploading to Canvas can sometimes be less than instantaneous, so `don't wait until one minute before midnight to submit`. Late homework is not acceptable.
 
 :exclamation: The course is fast paced, so keeping up with practicing the nearly weekly homework is critical for your success.
 
@@ -75,8 +91,6 @@ Homework is predominantly weekly, and you will usually have one week to complete
 :paperclip: = Additional Resources (please share if you know of a good resource not listed)
 
 Note that the syllabus is subject to change at anytime, so check back often. This is so I can offer you a more polished experience by adjusting to your performance and feedback as we go along.
-
-:exclamation: The course is fast paced, so keeping up with practicing the nearly weekly homework is critical for your success.
 
 ---
 * Jan-18-T: Course overview and introduction to the Python and Jupyter ecosystem
