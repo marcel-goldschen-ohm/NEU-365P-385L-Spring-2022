@@ -85,6 +85,7 @@ Most homework will be in the form of Jupyter notebooks. Homework assignments wil
 
 Note that the syllabus is subject to change at anytime, so check back often. This is so I can offer you a more polished experience by adjusting to your performance and feedback as we go along.
 
+---
 * Jan-18-T: Course overview and introduction to the Python and Jupyter ecosystem
     * Install [Python and Conda](https://docs.conda.io/en/latest/miniconda.html) (see instructions at bottom of page)
     * `conda install -c conda-forge jupyterlab`
@@ -92,6 +93,7 @@ Note that the syllabus is subject to change at anytime, so check back often. Thi
 * Jan-20-R: Python basics
     * :pencil2: Python basics
     * :paperclip: [Python beginner tutorials](https://www.tutorialsteacher.com/python), [Python basics](https://www.learnpython.org), [The Hitchhiker's Guide to Python](https://docs.python-guide.org/intro/learning/), [More Python tutorials](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers), [Python Tutor](https://pythontutor.com).
+---
 * Jan-25-T: NumPy data arrays and basic plotting
     * `conda install numpy`
     * `conda install matplotlib`
@@ -99,6 +101,7 @@ Note that the syllabus is subject to change at anytime, so check back often. Thi
 * Jan-27-R: Random walk lab
     * :pencil2: Random walks
     * :paperclip: [Diffusion and random walks](https://www.uio.no/studier/emner/matnat/fys/FYS2160/h17/simuleringsopgaver/virrevandrer_diffusjon.pdf)
+---
 * Feb-01-T: Visual data exploration and Pandas data tables
     * `conda install pandas`
     * `conda install seaborn`
@@ -106,48 +109,63 @@ Note that the syllabus is subject to change at anytime, so check back often. Thi
     * `conda install -c conda-forge pandasgui`
     * :paperclip: [Intro to Pandas](https://pandas.pydata.org/docs/getting_started/index.html), [Seaborn](https://seaborn.pydata.org), [D-Tale](https://github.com/man-group/dtale), [D-Tale tutorial](https://www.analyticsvidhya.com/blog/2021/06/exploring-pandas-dataframe-with-d-tale/), [PandasGUI](https://github.com/adamerose/PandasGUI), [PandasGUI tutorial](https://www.analyticsvidhya.com/blog/2021/07/everything-you-need-to-know-about-pandasgui/), [Kaggle database](https://www.kaggle.com)
 * Feb-03-R: Exploratory data analysis lab
+---
 * Feb-08-T: Functions and optimization with Numba
      * `conda install numba`
      * :paperclip: [Numba](http://numba.pydata.org)
 * Feb-10-R: Classes and modules
     * :pencil2: Your own module
+---
 * Feb-15-T: Probability distributions of random variables and the Central Limit Theorem
     * `conda install scipy`
     * :paperclip: [SciPy](https://scipy.org)
-* Feb-17-R: Minimization and Maximum Likelihood Estimation
+* Feb-17-R: Optimization and Maximum Likelihood Estimation
     * :pencil2: Maximum Likelihood Estimation
+---
 * Feb-22-T: Hypothesis testing, p-values, confidence intervals, and bootstrapping
     * `conda install -c conda-forge statsmodels`
     * :paperclip: [Statsmodels](https://www.statsmodels.org/stable/index.html)
 * Feb-24-R: Permutation test, K-S test, and QQ plots
     * :pencil2: Bootstrap and permutation test
+---
 * Mar-01-T: Time series, sampling and filtering
 * Mar-03-R: Convolution, filtering and image analysis
     * :pencil2: Time series sampling and filtering
+---
 * Mar-08-T: Hidden Markov Models
     * `conda install pomegranate`
     * :paperclip: [Pomegranate](https://github.com/jmschrei/pomegranate)
 * Mar-10-R: Hidden Markov Model lab
     * :pencil: Extra Credit: Gene sequences
-* Mar-15-T: SPRING BREAK
-* Mar-17-R: SPRING BREAK
+---
+* Mar-15-T: **SPRING BREAK**
+* Mar-17-R: **SPRING BREAK**
+---
 * Mar-22-T: Linear regression
     * `conda install scikit-learn`
     * :paperclip: [Scikit-learn](https://scikit-learn.org/stable/)
 * Mar-24-R: Ridge and lasso regression
+---
 * Mar-29-T: Cross validation
 * Mar-31-R: Nonlinear regression
+---
 * Apr-05-T: General Linear Models
 * Apr-07-R: Regression lab
+---
 * Apr-12-T: Classification
 * Apr-14-R: Clustering
+---
 * Apr-19-T: Principal Component Analysis
 * Apr-21-R: Principal Component Analysis lab
+---
 * Apr-26-T: Neural Networks
 * Apr-28-R: Neural Network lab
+---
 * May-03-T: Deep Learning
 * May-05-R: Deep Learning lab
+---
 * May-11-W: Final Exam 9:00 am-12:00 noon
+---
 
 ## Install Python (required)
 
