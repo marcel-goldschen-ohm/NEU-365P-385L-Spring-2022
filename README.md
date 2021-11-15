@@ -128,6 +128,7 @@ Note that the syllabus is subject to change at anytime, so check back often. Thi
     * `conda install pomegranate`
     * :paperclip: [Pomegranate](https://github.com/jmschrei/pomegranate)
 * Mar-10-R: Hidden Markov Model lab
+    * :pencil: Extra Credit: Gene sequences
 * Mar-15-T: SPRING BREAK
 * Mar-17-R: SPRING BREAK
 * Mar-22-T: Linear regression
