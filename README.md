@@ -86,13 +86,14 @@ Below each topic I've listed a few links to additional information. If you happe
 * Jan-18-T: Course overview and introduction to the Python and Jupyter ecosystem
     * Install [Python and Conda](https://docs.conda.io/en/latest/miniconda.html) (see instructions at bottom of page)
     * `conda install -c conda-forge jupyterlab`
-    * Additional Resources: [What can I do with Python?](https://realpython.com/what-can-i-do-with-python/), [Miniconda](https://docs.conda.io/en/latest/miniconda.html), [Intro to Jupyter and JupyterLab](https://coderefinery.github.io/jupyter/)
+    * :paperclip: Additional Resources: [What can I do with Python?](https://realpython.com/what-can-i-do-with-python/), [Miniconda](https://docs.conda.io/en/latest/miniconda.html), [Intro to Jupyter and JupyterLab](https://coderefinery.github.io/jupyter/)
 * Jan-20-R: Python basics
-    * Additional Resources: [Python beginner tutorials](https://www.tutorialsteacher.com/python), [Python basics](https://www.learnpython.org), [The Hitchhiker's Guide to Python](https://docs.python-guide.org/intro/learning/), [More Python tutorials](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers), [Python Tutor](https://pythontutor.com).
+    * :pencil2: Homework: Python basics
+    * :paperclip: Additional Resources: [Python beginner tutorials](https://www.tutorialsteacher.com/python), [Python basics](https://www.learnpython.org), [The Hitchhiker's Guide to Python](https://docs.python-guide.org/intro/learning/), [More Python tutorials](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers), [Python Tutor](https://pythontutor.com).
 * Jan-25-T: NumPy data arrays and basic plotting
     * `conda install numpy`
     * `conda install matplotlib`
-    * Additional Resources: [NumPy](https://numpy.org), :star:[A visual intro to NumPy](https://jalammar.github.io/visual-numpy/), [Matplotlib](https://matplotlib.org)
+    * :paperclip: Additional Resources: [NumPy](https://numpy.org), :star:[A visual intro to NumPy](https://jalammar.github.io/visual-numpy/), [Matplotlib](https://matplotlib.org)
 * Jan-27-R: Random walk lab
     * Additional Resources: [Diffusion and random walks](https://www.uio.no/studier/emner/matnat/fys/FYS2160/h17/simuleringsopgaver/virrevandrer_diffusjon.pdf)
 * Feb-01-T: Visual data exploration and Pandas data tables
@@ -100,31 +101,31 @@ Below each topic I've listed a few links to additional information. If you happe
     * `conda install seaborn`
     * `conda install -c conda-forge dtale`
     * `conda install -c conda-forge pandasgui`
-    * Additional Resources: [Intro to Pandas](https://pandas.pydata.org/docs/getting_started/index.html), [Seaborn](https://seaborn.pydata.org), [D-Tale](https://github.com/man-group/dtale), [D-Tale tutorial](https://www.analyticsvidhya.com/blog/2021/06/exploring-pandas-dataframe-with-d-tale/), [PandasGUI](https://github.com/adamerose/PandasGUI), [PandasGUI tutorial](https://www.analyticsvidhya.com/blog/2021/07/everything-you-need-to-know-about-pandasgui/), [Kaggle database](https://www.kaggle.com)
+    * :paperclip: Additional Resources: [Intro to Pandas](https://pandas.pydata.org/docs/getting_started/index.html), [Seaborn](https://seaborn.pydata.org), [D-Tale](https://github.com/man-group/dtale), [D-Tale tutorial](https://www.analyticsvidhya.com/blog/2021/06/exploring-pandas-dataframe-with-d-tale/), [PandasGUI](https://github.com/adamerose/PandasGUI), [PandasGUI tutorial](https://www.analyticsvidhya.com/blog/2021/07/everything-you-need-to-know-about-pandasgui/), [Kaggle database](https://www.kaggle.com)
 * Feb-03-R: Exploratory data analysis lab
 * Feb-08-T: Functions and optimization with Numba
      * `conda install numba`
-     * Additional Resources: [Numba](http://numba.pydata.org)
+     * :paperclip: Additional Resources: [Numba](http://numba.pydata.org)
 * Feb-10-R: Classes and modules
 * Feb-15-T: Probability distributions of random variables and the Central Limit Theorem
     * `conda install scipy`
-    * Additional Resources: [SciPy](https://scipy.org)
+    * :paperclip: Additional Resources: [SciPy](https://scipy.org)
 * Feb-17-R: Minimization and Maximum Likelihood Estimation
 * Feb-22-T: Hypothesis testing, p-values, confidence intervals, and bootstrapping
     * `conda install -c conda-forge statsmodels`
-    * Additional Resources: [Statsmodels](https://www.statsmodels.org/stable/index.html)
+    * :paperclip: Additional Resources: [Statsmodels](https://www.statsmodels.org/stable/index.html)
 * Feb-24-R: Permutation test, K-S test, and QQ plots
 * Mar-01-T: Time series, Fourier transform and filtering
 * Mar-03-R: Convolution, filtering and image analysis
 * Mar-08-T: Hidden Markov Models
     * `conda install pomegranate`
-    * Additional Resources: [Pomegranate](https://github.com/jmschrei/pomegranate)
+    * :paperclip: Additional Resources: [Pomegranate](https://github.com/jmschrei/pomegranate)
 * Mar-10-R: Hidden Markov Model lab
 * Mar-15-T: SPRING BREAK
 * Mar-17-R: SPRING BREAK
 * Mar-22-T: Linear regression
     * `conda install scikit-learn`
-    * Additional Resources: [Scikit-learn](https://scikit-learn.org/stable/)
+    * :paperclip: Additional Resources: [Scikit-learn](https://scikit-learn.org/stable/)
 * Mar-24-R: Ridge and lasso regression
 * Mar-29-T: Cross validation
 * Mar-31-R: Nonlinear regression
