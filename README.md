@@ -98,7 +98,7 @@ Note that the syllabus is subject to change at anytime, so check back often. Thi
     * `conda install -c conda-forge jupyterlab`
     * :paperclip: [What can I do with Python?](https://realpython.com/what-can-i-do-with-python/), [Miniconda](https://docs.conda.io/en/latest/miniconda.html), [Intro to Jupyter and JupyterLab](https://coderefinery.github.io/jupyter/)
 * Jan-20-R: Python basics
-    * :pencil2: Python basics
+    * :pencil2: Python basics :alarm_clock: due Jan-24-M
     * :paperclip: [Python lists](https://developers.google.com/edu/python/lists), [List exercises](https://holypython.com/beginner-python-exercises/exercise-6-python-lists/), [List slicing exercises](https://holypython.com/beginner-python-exercises/exercise-17-python-slicing/), [Python beginner tutorials](https://www.tutorialsteacher.com/python), [Python basics](https://www.learnpython.org), [The Hitchhiker's Guide to Python](https://docs.python-guide.org/intro/learning/), [More Python tutorials](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers), [Python Tutor](https://pythontutor.com).
 ---
 * Jan-25-T: NumPy data arrays and basic plotting
@@ -106,7 +106,7 @@ Note that the syllabus is subject to change at anytime, so check back often. Thi
     * `conda install matplotlib`
     * :paperclip: [NumPy](https://numpy.org), :star:[A visual intro to NumPy](https://jalammar.github.io/visual-numpy/), [Matplotlib](https://matplotlib.org)
 * Jan-27-R: Random walk lab
-    * :pencil2: Random walks
+    * :pencil2: Random walks :alarm_clock: due Feb-04-F
     * :paperclip: [Diffusion and random walks](https://www.uio.no/studier/emner/matnat/fys/FYS2160/h17/simuleringsopgaver/virrevandrer_diffusjon.pdf)
 ---
 * Feb-01-T: Visual data exploration and Pandas data tables
