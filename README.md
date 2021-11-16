@@ -19,14 +19,15 @@ We will cover a wide array of topics rather than explore any one topic in great 
 
 ## Course Prerequisites
 
-There are no prerequisites for the course. *However, you are expected to be familiar with basic mathematical functions and concepts, and you will be asked to perform quantitative calculations.*
+There are no prerequisites for the course. *However, you are expected to be familiar with basic mathematical functions and concepts, and you will be asked to perform quantitative calculations and to think critically.* This is by no means an easy course.
 
 ## Requirements
 
-* You must bring a laptop to class for hands on participation. If you do not own a laptop, contact your department or the College of Natural Sciences to obtain a loaner for the duration of the course.
-* Install Python on the laptop you will bring to class (see instructions below).
+* You must `bring a laptop to class` for hands on participation. If you do not own a laptop, contact your department or the College of Natural Sciences to obtain a loaner for the duration of the course.
+* Install Python and JupyterLab on the laptop you will bring to class (see instructions at the bottom of this document).
 * Attend class both motivated and prepared to work hard!
 * Conduct yourself in a respectful manner at all times.
+* Help to foster an inclusive environment.
 * Have fun!
 
 ## Course Details
