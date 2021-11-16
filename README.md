@@ -118,11 +118,11 @@ Note that the syllabus is subject to change at anytime, so check back often. Thi
 * Feb-03-R: Exploratory data analysis lab
     * :exclamation: No homework this week! If you find yourself behind, this is the time to catch up.
 ---
-* Feb-08-T: Functions and optimization with Numba
-     * `conda install numba`
-     * :paperclip: [Numba](http://numba.pydata.org)
-* Feb-10-R: Classes and modules
+* Feb-08-T: Functions and classes
+* Feb-10-R: Modules and optimization with Numba
+    * `conda install numba`
     * :pencil2: Your own module :alarm_clock: due Feb-18-F
+    * :paperclip: [Numba](http://numba.pydata.org)
     * :exclamation: If you are behind at this point, please contact me so we can get you back on track.
 ---
 * Feb-15-T: Probability distributions of random variables and the Central Limit Theorem
@@ -145,7 +145,7 @@ Note that the syllabus is subject to change at anytime, so check back often. Thi
     * `conda install pomegranate`
     * :paperclip: [Pomegranate](https://github.com/jmschrei/pomegranate)
 * Mar-10-R: Hidden Markov Model lab
-    * :pencil: Extra Credit: Gene sequences :alarm_clock: due Mar-25-F
+    * :pencil: Extra Credit: HMMs for gene sequences :alarm_clock: due Mar-25-F
 ---
 * Mar-15-T: **SPRING BREAK**
 * Mar-17-R: **SPRING BREAK**
@@ -153,16 +153,18 @@ Note that the syllabus is subject to change at anytime, so check back often. Thi
 * Mar-22-T: Linear regression
     * `conda install scikit-learn`
     * :paperclip: [Scikit-learn](https://scikit-learn.org/stable/)
-* Mar-24-R: Ridge and lasso regression
+* Mar-24-R: Nonlinear regression and General Linear Models
+    * :pencil2: Regression :alarm_clock: due Apr-01-F
 ---
-* Mar-29-T: Cross validation
-* Mar-31-R: Nonlinear regression
+* Mar-29-T: Ridge and lasso regression
+* Mar-31-R: Cross validation
+    * :pencil2: Ridge and lasso regression :alarm_clock: due Apr-08-F
 ---
-* Apr-05-T: General Linear Models
-* Apr-07-R: Regression lab
+* Apr-05-T: Regression lab
+* Apr-07-R: Classification
 ---
-* Apr-12-T: Classification
-* Apr-14-R: Clustering
+* Apr-12-T: Clustering
+* Apr-14-R: Classification and clustering lab
 ---
 * Apr-19-T: Principal Component Analysis
 * Apr-21-R: Principal Component Analysis lab
