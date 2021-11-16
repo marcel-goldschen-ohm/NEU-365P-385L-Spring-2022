@@ -135,7 +135,7 @@ Note that the syllabus is subject to change at anytime, so check back often. Thi
     * `conda install -c conda-forge statsmodels`
     * :paperclip: [Statsmodels](https://www.statsmodels.org/stable/index.html)
 * Feb-24-R: Permutation test, K-S test, and QQ plots
-    * :pencil2: Bootstrap and permutation test
+    * :pencil2: Bootstrap and permutation test :alarm_clock: due Mar-04-F
 ---
 * Mar-01-T: Time series, sampling and filtering
 * Mar-03-R: Convolution, filtering and image analysis
