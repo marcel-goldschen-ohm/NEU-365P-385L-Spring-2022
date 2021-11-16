@@ -122,14 +122,14 @@ Note that the syllabus is subject to change at anytime, so check back often. Thi
      * `conda install numba`
      * :paperclip: [Numba](http://numba.pydata.org)
 * Feb-10-R: Classes and modules
-    * :pencil2: Your own module
+    * :pencil2: Your own module :alarm_clock: due Feb-18-F
     * :exclamation: If you are behind at this point, please contact me so we can get you back on track.
 ---
 * Feb-15-T: Probability distributions of random variables and the Central Limit Theorem
     * `conda install scipy`
     * :paperclip: [SciPy](https://scipy.org)
 * Feb-17-R: Optimization and Maximum Likelihood Estimation
-    * :pencil2: Maximum Likelihood Estimation
+    * :pencil2: Maximum Likelihood Estimation :alarm_clock: due Feb-25-F
 ---
 * Feb-22-T: Hypothesis testing, p-values, confidence intervals, and bootstrapping
     * `conda install -c conda-forge statsmodels`
@@ -139,13 +139,13 @@ Note that the syllabus is subject to change at anytime, so check back often. Thi
 ---
 * Mar-01-T: Time series, sampling and filtering
 * Mar-03-R: Convolution, filtering and image analysis
-    * :pencil2: Time series sampling and filtering
+    * :pencil2: Time series sampling and filtering :alarm_clock: due Mar-11-F
 ---
 * Mar-08-T: Hidden Markov Models
     * `conda install pomegranate`
     * :paperclip: [Pomegranate](https://github.com/jmschrei/pomegranate)
 * Mar-10-R: Hidden Markov Model lab
-    * :pencil: Extra Credit: Gene sequences
+    * :pencil: Extra Credit: Gene sequences :alarm_clock: due Mar-25-F
 ---
 * Mar-15-T: **SPRING BREAK**
 * Mar-17-R: **SPRING BREAK**
