@@ -162,15 +162,19 @@ Note that the syllabus is subject to change at anytime, so check back often. Thi
 ---
 * Apr-05-T: Regression lab
 * Apr-07-R: Classification
+    * :exclamation: No homework this week! If you find yourself behind, this is the time to catch up.
 ---
 * Apr-12-T: Clustering
 * Apr-14-R: Classification and clustering lab
+    * :pencil2: Classification and clustering :alarm_clock: due Apr-22-F
 ---
 * Apr-19-T: Principal Component Analysis
 * Apr-21-R: Principal Component Analysis lab
+    * :pencil2: Principal Component Analysis :alarm_clock: due Apr-29-F
 ---
 * Apr-26-T: Neural Networks
 * Apr-28-R: Neural Network lab
+    * :pencil2: Neural Networks :alarm_clock: due May-06-F
 ---
 * May-03-T: Deep Learning
 * May-05-R: Deep Learning lab
