@@ -123,7 +123,7 @@ Note that the syllabus is subject to change at anytime, so check back often. Thi
      * :paperclip: [Numba](http://numba.pydata.org)
 * Feb-10-R: Classes and modules
     * :pencil2: Your own module
-    * :exclamation: If you are still behind at this point, please contact me so we can get you back on track.
+    * :exclamation: If you are behind at this point, please contact me so we can get you back on track.
 ---
 * Feb-15-T: Probability distributions of random variables and the Central Limit Theorem
     * `conda install scipy`
