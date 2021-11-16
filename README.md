@@ -136,7 +136,7 @@ You are `allowed to collaborate` with your classmates on homework assignments un
     * `conda install numpy`
     * `conda install matplotlib`
     * :paperclip: [NumPy](https://numpy.org), :star:[A visual intro to NumPy](https://jalammar.github.io/visual-numpy/), [Matplotlib](https://matplotlib.org)
-* Jan-27-R: Random walks
+* Jan-27-R: Random walk lab
     * :pencil2: Random walks :alarm_clock: due Feb-04-F
     * :paperclip: [Diffusion and random walks](https://www.uio.no/studier/emner/matnat/fys/FYS2160/h17/simuleringsopgaver/virrevandrer_diffusjon.pdf)
 ---
