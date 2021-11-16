@@ -56,7 +56,7 @@ Along with the entire Department of Neuroscience, this course embraces a notion 
 
 ## Grades
 
-:exclamation: Homework constitutes the majority of your grade, so it is imperitive that you complete the homework on time in order to do well in this course.
+:bangbang: Homework constitutes the majority of your grade, so it is imperitive that you complete the homework on time in order to do well in this course.
 
     A: 90-100%
     B: 80-89%
@@ -82,7 +82,7 @@ Homework assignments will be posted on `Canvas` where you will be required to up
 
 Homework is predominantly weekly, and you will usually have one week to complete the assignment. All homework is `due by midnight on the due date`. Note that uploading to Canvas can sometimes be less than instantaneous, so `don't wait until one minute before midnight to submit`. Late homework is not acceptable.
 
-:exclamation: The course is fast paced, so keeping up with practicing the nearly weekly homework is critical for your success.
+:bangbang: The course is fast paced, so keeping up with practicing the nearly weekly homework is critical for your success.
 
 ## Syllabus
 
@@ -116,7 +116,7 @@ Note that the syllabus is subject to change at anytime, so check back often. Thi
     * `conda install -c conda-forge pandasgui`
     * :paperclip: [Intro to Pandas](https://pandas.pydata.org/docs/getting_started/index.html), [Seaborn](https://seaborn.pydata.org), [D-Tale](https://github.com/man-group/dtale), [D-Tale tutorial](https://www.analyticsvidhya.com/blog/2021/06/exploring-pandas-dataframe-with-d-tale/), [PandasGUI](https://github.com/adamerose/PandasGUI), [PandasGUI tutorial](https://www.analyticsvidhya.com/blog/2021/07/everything-you-need-to-know-about-pandasgui/), [Kaggle database](https://www.kaggle.com)
 * Feb-03-R: Exploratory data analysis lab
-    * :exclamation: No homework this week! If you find yourself behind, this is the time to catch up.
+    * :exclamation: No homework this week!. If you find yourself behind, this is the time to catch up.
 ---
 * Feb-08-T: Functions and classes
 * Feb-10-R: Modules and optimization with Numba
@@ -162,7 +162,7 @@ Note that the syllabus is subject to change at anytime, so check back often. Thi
 ---
 * Apr-05-T: Regression lab
 * Apr-07-R: Classification
-    * :exclamation: No homework this week! If you find yourself behind, this is the time to catch up.
+    * :exclamation: No homework this week. If you find yourself behind, this is the time to catch up.
 ---
 * Apr-12-T: Clustering
 * Apr-14-R: Classification and clustering lab
