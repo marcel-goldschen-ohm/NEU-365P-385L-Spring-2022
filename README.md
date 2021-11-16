@@ -124,7 +124,7 @@ You are `allowed to collaborate` with your classmates on homework assignments un
 :warning: Note that the syllabus is subject to change at anytime, so check back often. This is so I can offer you a more polished experience by adjusting to your performance and feedback as we go along.
 
 ---
-* Jan-18-T: Course overview and introduction to the Python and Jupyter ecosystem
+* Jan-18-T: Introduction to the Python and Jupyter ecosystem
     * Install [Python and Conda](https://docs.conda.io/en/latest/miniconda.html) (see instructions at bottom of page)
     * `conda install -c conda-forge jupyterlab`
     * :paperclip: [What can I do with Python?](https://realpython.com/what-can-i-do-with-python/), [Miniconda](https://docs.conda.io/en/latest/miniconda.html), [Intro to Jupyter and JupyterLab](https://coderefinery.github.io/jupyter/)
