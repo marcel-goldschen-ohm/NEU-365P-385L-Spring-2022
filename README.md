@@ -23,12 +23,11 @@ There are no prerequisites for the course. *However, you are expected to be fami
 
 ## Requirements
 
-* You must `bring a laptop to class` for hands on participation. If you do not own a laptop, contact your department or the College of Natural Sciences to obtain a loaner for the duration of the course.
-* Install Python and JupyterLab on the laptop you will bring to class (see instructions at the bottom of this document).
-* Attend class both motivated and prepared to work hard!
-* Conduct yourself in a respectful manner at all times.
-* Help to foster an inclusive environment.
-* Have fun!
+You must `bring a laptop to class` for hands on participation. If you do not own a laptop, contact your department or the College of Natural Sciences to obtain a loaner for the duration of the course. Install Python 3.x, Conda and JupyterLab PRIOR TO THE FIRST CLASS. See the installation instructions near the end of this document.
+
+Other than that you should be motivated, prepared to work hard, respectful and help to foster an inclusive environment.
+
+Finally, I want you to have fun and learn a lot!
 
 ## Course Details
 
