@@ -35,8 +35,14 @@ There are no prerequisites for the course. *However, you are expected to be fami
 * Location: BUR 208
 * Instructor: Marcel Goldschen-Ohm
 * TA: Ashray Saxena
-* Office hours (Zoom only): See Canvas announcement.
-* Contact: Please contact myself or the TA via Canvas. (!!! If you email me directly, please include `neu365-2022` or `neu385-2022` in the subject line)
+
+## Contact
+
+Please contact myself or the TA via `Canvas`.
+
+## Office Hours
+
+Office hours are `Zoom only`. See `Canvas` announcement for times and Zoom links.
  
 ## I'm confused, but my schedule makes attending office hours difficult. What do I do?
 
@@ -103,7 +109,7 @@ You are `allowed to collaborate` with your classmates on homework assignments un
 * collaborater 1
 * collaborator 2
 
-:bangbang: It is imperitive that both collaborators have each others names in their respective lists.
+:bangbang: It is imperitive that both collaborators have each others names in their respective lists. Any academic dishonesty such as copying a fellow students assignment without collaborating in its completion will be severly punished as outlined by the University.
 
 ## Syllabus
 
