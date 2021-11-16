@@ -44,7 +44,7 @@ There are no prerequisites for the course. *However, you are expected to be fami
 
 ## Academic Integrity
 
-It is perfectly fine to work with your fellow students or anyone else on the homework assignments. If you do so, please include a note on your assignment indicating with whom you collaborated. Any academic dishonesty such as copying a fellow students assignment without collaborating in its completion will be severly punished as outlined by the University. **Most importantly, the ability to solve problems such as those in the homeworks is exactly the skillset you are here to obtain.** By not practicing these skills, you are primarily hurting yourself.
+It is perfectly fine to work with your fellow students or anyone else on the homework assignments. If you do so, please include a note on your assignment indicating with whom you collaborated (see Homework Collaboration below). Any academic dishonesty such as copying a fellow students assignment without collaborating in its completion will be severly punished as outlined by the University. **Most importantly, the ability to solve problems such as those in the homeworks is exactly the skillset you are here to obtain.** By not practicing these skills, you are primarily hurting yourself.
 
 ## Inclusion
 
@@ -84,13 +84,34 @@ Homework is predominantly weekly, and you will usually have one week to complete
 
 :bangbang: The course is fast paced, so keeping up with practicing the nearly weekly homework is critical for your success.
 
+:warning: If you clone this repository, be sure to `move the homework files outside of your cloned folder` before you work on them. Otherwise, the next time you sync with this repository `your homework will be overwritten with blank assignments`! You don't have to worry about this if you download the files manually.
+
+:warning: I reserve the right to change any of the homework files anytime prior to their assignment. If you opt to complete any of the assignments ahead of time, it is up to you to check for any changes at the time of assignment.
+
+## How to manually download Jupyter notebook homework files
+
+1. Navigate to the `*.ipynb` Jupyter notebook file in this repository.
+2. Right-click on the `Raw` button above the file preview and `download` the file.
+3. In JupyterLab, navigate to the file and open it.
+
+:warning: In the past some people experienced that their downloads were treated as text files with an extension of `.ipynb.txt`. If this happens you will not be able to open the file in JupyterLab until you `remove the .txt` extension so that the file has the proper extension of `.ipynb`.
+
+## Homework Collaboration
+
+You are `allowed to collaborate` with your classmates on homework assignments unless otherwise indicated. If you do so, you `must include the names of everyone you collaborated with` at the very beginning of the assignment. For Jupyter notebooks, please `insert a new first Markdown cell` with all `collaborators names in a bulleted list` like this:
+
+* collaborater 1
+* collaborator 2
+
+:bangbang: It is imperitive that both collaborators have each others names in their respective lists.
+
 ## Syllabus
 
 :pencil2: = Homework
 
 :paperclip: = Additional Resources (please share if you know of a good resource not listed)
 
-Note that the syllabus is subject to change at anytime, so check back often. This is so I can offer you a more polished experience by adjusting to your performance and feedback as we go along.
+:warning: Note that the syllabus is subject to change at anytime, so check back often. This is so I can offer you a more polished experience by adjusting to your performance and feedback as we go along.
 
 ---
 * Jan-18-T: Course overview and introduction to the Python and Jupyter ecosystem
