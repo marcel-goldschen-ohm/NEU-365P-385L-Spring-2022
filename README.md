@@ -44,9 +44,13 @@ Please contact myself or the TA via `Canvas`.
 
 Office hours are `Zoom only`. See `Canvas` announcement for times and Zoom links.
  
-## I'm confused, but my schedule makes attending office hours difficult. What do I do?
+### I'm confused, but my schedule makes attending office hours difficult. What do I do?
 
-**!!! POST YOUR QUESTIONS ON CANVAS** where either myself or your fellow students can help. I may not reply immediately as advice from fellow students can often be the most illuminating.
+Post your questions on the `Canvas discussion board` where either myself or your fellow students can help. I may not reply immediately as advice from fellow students can often be the most illuminating.
+
+## Canvas Discussion Board
+
+:bangbang: Every time you interact with the Canvas discussion board in a meaningful way (this includes both asking and answering questions), you will receive `one point of extra credit`.
 
 ## Academic Integrity
 
@@ -159,6 +163,7 @@ You are `allowed to collaborate` with your classmates on homework assignments un
     * :pencil2: Maximum Likelihood Estimation :alarm_clock: due Feb-25-F
 ---
 * Feb-22-T: Hypothesis testing, p-values, confidence intervals, and bootstrapping
+    * :bangbang: This lecture will be `online ONLY` as I will be at the Biophysical Society meeting.
     * `conda install -c conda-forge statsmodels`
     * :paperclip: [Statsmodels](https://www.statsmodels.org/stable/index.html)
 * Feb-24-R: Permutation test, K-S test, and QQ plots
