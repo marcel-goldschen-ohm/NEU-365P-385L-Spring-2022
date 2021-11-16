@@ -96,7 +96,7 @@ Homework is predominantly weekly, and you will usually have one week to complete
 
 :warning: If you clone this repository, be sure to `move the homework files outside of your cloned folder` before you work on them. Otherwise, the next time you sync with this repository `your homework will be overwritten with blank assignments`! You don't have to worry about this if you download the files manually.
 
-:warning: I reserve the right to change any of the homework files anytime prior to their assignment. If you opt to complete any of the assignments ahead of time, it is up to you to check for any changes at the time of assignment.
+:warning: I reserve the right to alter any of the homework files anytime prior to their assignment. If you opt to complete any of the assignments ahead of time, it is up to you to check for any changes at the time of assignment.
 
 ## How to manually download Jupyter notebook homework files
 
@@ -121,7 +121,7 @@ You are `allowed to collaborate` with your classmates on homework assignments un
 
 :paperclip: = Additional Resources (please share if you know of a good resource not listed)
 
-:warning: Note that the syllabus is subject to change at anytime, so check back often. This is so I can offer you a more polished experience by adjusting to your performance and feedback as we go along.
+:warning: The syllabus is unlikely to change much, but I reserve the right to tweak and change it as we go along, so check back often. This is so I can offer you a more polished experience by adjusting to your performance and feedback throughout the course. Note that this also includes homework assignments (see Homework above).
 
 ---
 * Jan-18-T: Introduction to the Python and Jupyter ecosystem
