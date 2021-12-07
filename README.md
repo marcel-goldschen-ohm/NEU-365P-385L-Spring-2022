@@ -130,7 +130,7 @@ You are `allowed to collaborate` with your classmates on homework assignments un
     * :paperclip: [What can I do with Python?](https://realpython.com/what-can-i-do-with-python/), [Miniconda](https://docs.conda.io/en/latest/miniconda.html), [Intro to Jupyter and JupyterLab](https://coderefinery.github.io/jupyter/)
 * Jan-20-R: Python basics
     * :pencil2: Python basics :alarm_clock: due Jan-24-M
-    * :paperclip: [Python lists](https://developers.google.com/edu/python/lists), [List exercises](https://holypython.com/beginner-python-exercises/exercise-6-python-lists/), [List slicing exercises](https://holypython.com/beginner-python-exercises/exercise-17-python-slicing/), [Python beginner tutorials](https://www.tutorialsteacher.com/python), [Python basics](https://www.learnpython.org), [The Hitchhiker's Guide to Python](https://docs.python-guide.org/intro/learning/), [More Python tutorials](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers), [Python Tutor](https://pythontutor.com).
+    * :paperclip: [Python lists](https://developers.google.com/edu/python/lists), [List exercises](https://holypython.com/beginner-python-exercises/exercise-6-python-lists/), [List slicing exercises](https://holypython.com/beginner-python-exercises/exercise-17-python-slicing/), [Python beginner tutorials](https://www.tutorialsteacher.com/python), [Python basics](https://www.learnpython.org), [The Hitchhiker's Guide to Python](https://docs.python-guide.org/intro/learning/), [More Python tutorials](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers), [Python Tutor](https://pythontutor.com)
 ---
 * Jan-25-T: NumPy data arrays and basic plotting
     * `conda install numpy`
@@ -143,9 +143,11 @@ You are `allowed to collaborate` with your classmates on homework assignments un
 * Feb-01-T: Visual data exploration and Pandas data tables
     * `conda install pandas`
     * `conda install seaborn`
-    * `conda install -c conda-forge dtale`
-    * `conda install -c conda-forge pandasgui`
-    * :paperclip: [Intro to Pandas](https://pandas.pydata.org/docs/getting_started/index.html), [Seaborn](https://seaborn.pydata.org), [D-Tale](https://github.com/man-group/dtale), [D-Tale tutorial](https://www.analyticsvidhya.com/blog/2021/06/exploring-pandas-dataframe-with-d-tale/), [PandasGUI](https://github.com/adamerose/PandasGUI), [PandasGUI tutorial](https://www.analyticsvidhya.com/blog/2021/07/everything-you-need-to-know-about-pandasgui/), [Kaggle database](https://www.kaggle.com)
+    * `conda install pip`
+    * `pip install heatmapz`
+    * `conda install -c conda-forge dython`
+    * `conda install -c conda-forge sweetviz`
+    * :paperclip: [Intro to Pandas](https://pandas.pydata.org/docs/getting_started/index.html), [Seaborn](https://seaborn.pydata.org), [Heatmapz](https://pypi.org/project/heatmapz/), [Dython](https://github.com/shakedzy/dython), [Sweetviz](https://pypi.org/project/sweetviz/), [Autoviz](https://pypi.org/project/autoviz/), [Pandas Profiling](https://pypi.org/project/pandas-profiling/), [D-Tale](https://github.com/man-group/dtale), [PandasGUI](https://github.com/adamerose/PandasGUI), [Kaggle database](https://www.kaggle.com)
 * Feb-03-R: Exploratory data analysis lab
     * :exclamation: No homework this week!. If you find yourself behind, this is the time to catch up.
 ---
