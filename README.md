@@ -140,7 +140,7 @@ You are `allowed to collaborate` with your classmates on homework assignments un
     * :pencil2: Random walks :alarm_clock: due Feb-04-F
     * :paperclip: [Diffusion and random walks](https://www.uio.no/studier/emner/matnat/fys/FYS2160/h17/simuleringsopgaver/virrevandrer_diffusjon.pdf)
 ---
-* Feb-01-T: Visual data exploration and Pandas data tables
+* Feb-01-T: Pandas data tables and exploratory data analysis
     * `conda install pandas`
     * `conda install seaborn`
     * `conda install pip`
