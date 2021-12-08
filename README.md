@@ -151,23 +151,23 @@ You are `allowed to collaborate` with your classmates on homework assignments un
 * Feb-03-R: Functions, classes, modules and optimization with Numba
     * `conda install numba`
     * :paperclip: [Numba](http://numba.pydata.org)
-    * :exclamation: No homework this week!. If you find yourself behind, this is the time to catch up.
+    * :bangbang: No homework this week!. If you find yourself behind, this is the time to catch up.
 ---
 * Feb-08-T: Probability distributions of random variables and the Central Limit Theorem
     * `conda install scipy`
     * :paperclip: [SciPy](https://scipy.org)
 * Feb-10-R: Optimization and Maximum Likelihood Estimation
     * :pencil2: Maximum Likelihood Estimation :alarm_clock: due Feb-18-F
-    * :exclamation: If you are behind at this point, please contact me so we can get you back on track.
+    * :bangbang: If you are behind at this point, please contact me so we can get you back on track.
 ---
 * Feb-15-T: Hypothesis testing, p-values, confidence intervals, and bootstrapping
-    * :bangbang: This lecture will be `online ONLY` as I will be at the Biophysical Society meeting.
     * `conda install -c conda-forge statsmodels`
     * :paperclip: [Statsmodels](https://www.statsmodels.org/stable/index.html)
 * Feb-17-R: Permutation test, K-S test, and QQ plots
     * :pencil2: Bootstrap and permutation test :alarm_clock: due Feb-25-F
 ---
 * Feb-22-T: Time series, sampling and filtering
+    * :bangbang: This lecture will be `online ONLY` as I will be at the Biophysical Society meeting.
 * Feb-24-R: Convolution, filtering and image analysis
     * :pencil2: Time series and convolution :alarm_clock: due Mar-04-F
 ---
