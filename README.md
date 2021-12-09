@@ -132,7 +132,7 @@ You are `allowed to collaborate` with your classmates on homework assignments un
     * :pencil2: Python basics :alarm_clock: due Jan-24-M
     * :paperclip: [Python lists](https://developers.google.com/edu/python/lists), [List exercises](https://holypython.com/beginner-python-exercises/exercise-6-python-lists/), [List slicing exercises](https://holypython.com/beginner-python-exercises/exercise-17-python-slicing/), [Python beginner tutorials](https://www.tutorialsteacher.com/python), [Python basics](https://www.learnpython.org), [The Hitchhiker's Guide to Python](https://docs.python-guide.org/intro/learning/), [More Python tutorials](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers), [Python Tutor](https://pythontutor.com)
 ---
-* Jan-25-T: NumPy data arrays and basic plotting
+* Jan-25-T: NumPy multi-dimensional data arrays and basic plotting
     * `conda install numpy`
     * `conda install matplotlib`
     * :paperclip: [NumPy](https://numpy.org), :star:[A visual intro to NumPy](https://jalammar.github.io/visual-numpy/), [Matplotlib](https://matplotlib.org)
