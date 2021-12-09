@@ -127,6 +127,7 @@ You are `allowed to collaborate` with your classmates on homework assignments un
 * Jan-18-T: Introduction to the Python and Jupyter ecosystem
     * Install [Python and Conda](https://docs.conda.io/en/latest/miniconda.html) (see instructions at bottom of page)
     * `conda install -c conda-forge jupyterlab`
+    * `jupyter-lab` <-- launches JupyterLab in your web browser
     * :paperclip: [What can I do with Python?](https://realpython.com/what-can-i-do-with-python/), [Miniconda](https://docs.conda.io/en/latest/miniconda.html), [Intro to Jupyter and JupyterLab](https://coderefinery.github.io/jupyter/)
 * Jan-20-R: Python basics
     * :pencil2: Python basics :alarm_clock: due Jan-24-M
@@ -136,7 +137,7 @@ You are `allowed to collaborate` with your classmates on homework assignments un
     * `conda install numpy`
     * `conda install matplotlib`
     * `conda install -c plotly plotly`
-    * `conda install ipywidgets`
+    * `conda install ipywidgets` --> reboot jupyter-lab afterwards
     * :paperclip: [NumPy](https://numpy.org), :star:[A visual intro to NumPy](https://jalammar.github.io/visual-numpy/), [Matplotlib](https://matplotlib.org), [Plotly](https://plotly.com/python/getting-started/)
 * Jan-27-R: Random walk lab
     * :pencil2: Random walks :alarm_clock: due Feb-04-F
@@ -150,7 +151,7 @@ You are `allowed to collaborate` with your classmates on homework assignments un
     * `conda install -c conda-forge dython`
     * `conda install -c conda-forge sweetviz`
     * `pip install mitoinstaller`
-    * `python -m mitoinstaller install`
+    * `python -m mitoinstaller install` --> reboot jupyter-lab afterwards
     * :paperclip: [Pandas](https://pandas.pydata.org/docs/getting_started/index.html), [Seaborn](https://seaborn.pydata.org), [Heatmapz](https://pypi.org/project/heatmapz/), [Dython](https://github.com/shakedzy/dython), [Sweetviz](https://pypi.org/project/sweetviz/), [Autoviz](https://pypi.org/project/autoviz/), [Pandas Profiling](https://pypi.org/project/pandas-profiling/), [Mito](https://docs.trymito.io/), [D-Tale](https://github.com/man-group/dtale), [PandasGUI](https://github.com/adamerose/PandasGUI), [Kaggle database](https://www.kaggle.com)
 * Feb-03-R: Functions, classes, modules and optimization with Numba
     * `conda install numba`
