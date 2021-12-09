@@ -147,7 +147,7 @@ You are `allowed to collaborate` with your classmates on homework assignments un
     * `pip install heatmapz`
     * `conda install -c conda-forge dython`
     * `conda install -c conda-forge sweetviz`
-    * :paperclip: [Intro to Pandas](https://pandas.pydata.org/docs/getting_started/index.html), [Seaborn](https://seaborn.pydata.org), [Heatmapz](https://pypi.org/project/heatmapz/), [Dython](https://github.com/shakedzy/dython), [Sweetviz](https://pypi.org/project/sweetviz/), [Autoviz](https://pypi.org/project/autoviz/), [Pandas Profiling](https://pypi.org/project/pandas-profiling/), [D-Tale](https://github.com/man-group/dtale), [PandasGUI](https://github.com/adamerose/PandasGUI), [Kaggle database](https://www.kaggle.com)
+    * :paperclip: [Pandas](https://pandas.pydata.org/docs/getting_started/index.html), [Seaborn](https://seaborn.pydata.org), [Heatmapz](https://pypi.org/project/heatmapz/), [Dython](https://github.com/shakedzy/dython), [Sweetviz](https://pypi.org/project/sweetviz/), [Autoviz](https://pypi.org/project/autoviz/), [Pandas Profiling](https://pypi.org/project/pandas-profiling/), [D-Tale](https://github.com/man-group/dtale), [PandasGUI](https://github.com/adamerose/PandasGUI), [Kaggle database](https://www.kaggle.com)
 * Feb-03-R: Functions, classes, modules and optimization with Numba
     * `conda install numba`
     * :paperclip: [Numba](http://numba.pydata.org)
