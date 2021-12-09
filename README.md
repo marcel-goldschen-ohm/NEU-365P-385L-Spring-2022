@@ -248,3 +248,4 @@ We'll be installing more packages as we go, but the above are some basic package
 
 ## Interesting packages
 * [napari](https://napari.org/): Multi-dimensional image viewer.
+* [Motif](https://www.cylynx.io/blog/introducing-motif-the-no-code-graph-visualization-platform/): Network graph viewer.
