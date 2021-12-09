@@ -3,7 +3,7 @@ Programming and Data Analysis for Modern Neuroscience, Spring 2022
 
 :bangbang: Install Python 3.x, Conda and JupyterLab PRIOR TO THE FIRST CLASS. See the installation instructions near the end of this document.
 
-## Course Objective
+## Objective
 
 *The ability to read and write are obvious fundamental skills critical to all academic and quantitative pursuits.* **Fast approaching this level of fundamental importance is the ability to write computer programs to analyze and manipulate data sets ever increasing in richness and size.** This skillset is necessary to work with a wide array of systems whose models and behavior are sufficiently complex to make analysis by hand intractable.
 
@@ -17,7 +17,7 @@ We will cover a wide array of topics rather than explore any one topic in great 
 
 *The goal of the course is to give you enough of a basic toolset that you will have the necessary foundation to develop programs for any concept that you understand.*
 
-## Course Prerequisites
+## Prerequisites
 
 There are no prerequisites for the course. *However, you are expected to be familiar with basic mathematical functions and concepts, and you will be asked to perform quantitative calculations and to think critically.* This is by no means an easy course.
 
