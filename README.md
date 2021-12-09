@@ -29,6 +29,14 @@ Other than that you should be motivated, prepared to work hard, respectful and h
 
 Finally, I want you to have fun and learn a lot!
 
+## Academic Integrity
+
+It is perfectly fine to work with your fellow students or anyone else on the homework assignments. If you do so, please include a note on your assignment indicating with whom you collaborated (see Homework Collaboration below). Any academic dishonesty such as copying a fellow students assignment without collaborating in its completion will be severly punished as outlined by the University. **Most importantly, the ability to solve problems such as those in the homeworks is exactly the skillset you are here to obtain.** By not practicing these skills, you are primarily hurting yourself.
+
+## Inclusion
+
+Along with the entire Department of Neuroscience, this course embraces a notion of an intellectual community enriched and enhanced by diversity along a number of dimensions, including race, ethnicity and national origins, gender and gender identity, sexuality, class, ability level, and religion. We are especially committed to fostering an environment where you feel heard and respected in your courses.
+
 ## Course Details
 
 * Time: TTH 2:00-3:30 PM
@@ -48,17 +56,11 @@ Office hours are `Zoom only`. See `Canvas` announcement for times and Zoom links
 
 Post your questions on the `Canvas discussion board` where either myself or your fellow students can help. I may not reply immediately as advice from fellow students can often be the most illuminating.
 
-## Canvas Discussion Board
+## Discussion Board
 
-:bangbang: Every time you interact with the Canvas discussion board in a meaningful way (this includes both asking and answering questions), you will receive `one point of extra credit`.
+See Canvas for a link to the discussion board.
 
-## Academic Integrity
-
-It is perfectly fine to work with your fellow students or anyone else on the homework assignments. If you do so, please include a note on your assignment indicating with whom you collaborated (see Homework Collaboration below). Any academic dishonesty such as copying a fellow students assignment without collaborating in its completion will be severly punished as outlined by the University. **Most importantly, the ability to solve problems such as those in the homeworks is exactly the skillset you are here to obtain.** By not practicing these skills, you are primarily hurting yourself.
-
-## Inclusion
-
-Along with the entire Department of Neuroscience, this course embraces a notion of an intellectual community enriched and enhanced by diversity along a number of dimensions, including race, ethnicity and national origins, gender and gender identity, sexuality, class, ability level, and religion. We are especially committed to fostering an environment where you feel heard and respected in your courses.
+:bangbang: Every time you interact with the discussion board in a meaningful way, you will receive `one point of extra credit`. Myself and the TA will decide what constitutes 'meaningful'. I realize this is subjective, but in general it includes asking a question, answering a question, or contributing addtional information or resources relevant to the course. Also, do not purposely attempt to break up your responses into many tiny chunks. All responses regarding a particular topic will together be considered as a single interaction. This extra credit will be tabulated weekly and points added within Canvas.
 
 ## Policies
 
