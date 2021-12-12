@@ -162,7 +162,7 @@ You are `allowed to collaborate` with your classmates on homework assignments un
 ---
 * Feb-08-T: Probability distributions of random variables and the Central Limit Theorem
     * `conda install scipy`
-    * :paperclip: [SciPy](https://scipy.org)
+    * :paperclip: [SciPy](https://scipy.org), [scipy.stats](https://docs.scipy.org/doc/scipy-0.14.0/reference/stats.html)
 * Feb-10-R: Optimization and Maximum Likelihood Estimation
     * :pencil2: Maximum Likelihood Estimation :alarm_clock: due Feb-18-F
     * :bangbang: If you are behind at this point, please contact me so we can get you back on track.
