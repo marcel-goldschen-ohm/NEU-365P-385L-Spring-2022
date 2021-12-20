@@ -149,6 +149,10 @@ You are `allowed to collaborate` with your classmates on homework assignments un
 
 :warning: The syllabus is unlikely to change much, but I reserve the right to tweak and change it as we go along, so check back often. This is so I can offer you a more polished experience by adjusting to your performance and feedback throughout the course. Note that this also includes homework assignments (see Homework above).
 
+:construction: Although the overall structure of the syllabus is more or less in place, I am still working on the details, especially for the latter half of the course. Check back often for updates.
+
+---
+
 :cyclone: = Learning Objectives
 
 :pencil2: = Homework
