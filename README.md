@@ -1,7 +1,7 @@
 # NEU-365P-385L-Spring-2022
 Programming and Data Analysis for Modern Neuroscience, Spring 2022
 
-:bangbang: Install Python 3.x, Conda and JupyterLab PRIOR TO THE FIRST CLASS. See the installation instructions near the end of this document.
+---
 
 - [Objective](#objective)
 - [Breadth over Depth](#breadth-over-depth)
@@ -20,9 +20,11 @@ Programming and Data Analysis for Modern Neuroscience, Spring 2022
 - [Homework Collaboration](#homework-collaboration)
 - [Topics Map](#topics-map)
 - [Syllabus](#syllabus)
-- [Install Python and JupyterLab (required)](#install-python-and-jupyterlab-required)
+- [Install Python and JupyterLab (required)](#install-python-and-jupyterlab-required) :bangbang: Install Python 3.x, Conda and JupyterLab PRIOR TO THE FIRST CLASS.
 - [Resources](#resources)
 - [Interesting Python packages](#interesting-python-packages)
+
+---
 
 ## Objective
 
