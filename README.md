@@ -123,7 +123,7 @@ You are `allowed to collaborate` with your classmates on homework assignments un
 
 ![Topics Map](images/topics-map.png)
 
-## Syllabus
+# Syllabus
 
 :warning: The syllabus is unlikely to change much, but I reserve the right to tweak and change it as we go along, so check back often. This is so I can offer you a more polished experience by adjusting to your performance and feedback throughout the course. Note that this also includes homework assignments (see Homework above).
 
