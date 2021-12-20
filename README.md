@@ -17,6 +17,7 @@ Programming and Data Analysis for Modern Neuroscience, Spring 2022
 - [Grades](#grades)
 - [Grading Rubric](#grading-rubric)
 - [Homework](#homework-pencil2)
+- [How to manually download Jupyter notebook homework files](#how-to-manually-download-jupyter-notebook-homework-files)
 - [Homework Collaboration](#homework-collaboration)
 - [Topics Map](#topics-map) :star:
 - [Syllabus](#syllabus)
