@@ -22,7 +22,7 @@ Programming and Data Analysis for Modern Neuroscience, Spring 2022
 - [Syllabus](#syllabus)
 - [Install Python and JupyterLab (required)](#install-python-and-jupyterlab-required) :bangbang: Install Python 3.x, Conda and JupyterLab PRIOR TO THE FIRST CLASS.
 - [Resources](#resources)
-- [Interesting Python packages](#interesting-python-packages)
+- [Other interesting Python packages](#other-interesting-python-packages)
 
 ---
 
@@ -354,7 +354,7 @@ This is not the only way to install and/or manage your Python environment, but i
 * [Deep Learning Online Book](https://www.deeplearningbook.org/): Requires some comfort with mathematics.
 * [CS109](https://github.com/cs109/content): Online material for CS109 course with moderately complex examples of some of the topics we cover in this course (although not related to neuroscience).
 
-## Interesting Python packages
+## Other interesting Python packages
 * [napari](https://napari.org/): Multi-dimensional image viewer.
 * [Motif](https://www.cylynx.io/blog/introducing-motif-the-no-code-graph-visualization-platform/): Network graph viewer.
 * [Skippa](https://github.com/data-science-lab-amsterdam/skippa): Streamlined preprocessing and modeling.
