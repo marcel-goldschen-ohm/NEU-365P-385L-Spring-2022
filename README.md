@@ -18,7 +18,7 @@ Programming and Data Analysis for Modern Neuroscience, Spring 2022
 - [Grading Rubric](#grading-rubric)
 - [Homework](#homework-pencil2)
 - [Homework Collaboration](#homework-collaboration)
-- [Topics Map](#topics-map)
+- [Topics Map](#topics-map) :star:
 - [Syllabus](#syllabus)
 - [Install Python and JupyterLab (required)](#install-python-and-jupyterlab-required) :bangbang: Install Python 3.x, Conda and JupyterLab PRIOR TO THE FIRST CLASS.
 - [Resources](#resources)
