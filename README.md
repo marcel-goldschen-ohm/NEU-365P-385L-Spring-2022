@@ -3,7 +3,7 @@ Programming and Data Analysis for Modern Neuroscience, Spring 2022
 
 :bangbang: Install Python 3.x, Conda and JupyterLab PRIOR TO THE FIRST CLASS. See the installation instructions near the end of this document.
 
-[Syllabus](#-syllabus)
+[Syllabus](#syllabus)
 
 ## Objective
 
