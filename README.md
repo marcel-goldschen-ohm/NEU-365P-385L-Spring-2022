@@ -331,6 +331,7 @@ You are `allowed to collaborate` with your classmates on homework assignments un
     * :cyclone: back propagation, gradient descent, stochastic gradient descent
     * :cyclone: activation functions: sigmoid, ReLU, ...
     * :paperclip: [3Blue1Brown Neural Networks YouTube video series](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+    * :paperclip: [PyTorch](https://pytorch.org/), [TensorFlow](https://www.tensorflow.org/), [Keras](https://keras.io/)
 * Apr-28-R: Convolutional Neural Network (CNN)
     * :pencil2: Neural Networks :alarm_clock: due May-06-F
 ---
