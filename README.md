@@ -226,11 +226,12 @@ You are `allowed to collaborate` with your classmates on homework assignments un
 * Feb-15-T: Hypothesis testing, p-values, confidence intervals and bootstrapping
     * :cyclone: You will be able to compute a p-value for a null hypothesis.
     * :cyclone: You will appreciate the difference between a p-value and an effect size.
-    * :cyclone: You will be able to generate bootstrap confidence intervals.
+    * :cyclone: You will appreciate that p-values do not inform on the truth or relevance of your hypothesis.
     * :cyclone: You will be able to test for differences in two samples using a permutation test.
+    * :cyclone: You will be able to generate bootstrap confidence intervals.
     * `conda install -c conda-forge statsmodels`
     * :pencil2: Bootstrap and permutation test :alarm_clock: due Feb-25-F
-    * :paperclip: [Statsmodels](https://www.statsmodels.org/stable/index.html)
+    * :paperclip: [Statsmodels](https://www.statsmodels.org/stable/index.html), [Twelve P-Value Misconceptions](https://www.youtube.com/watch?v=QAwYwcSTdLs)
 * Feb-17-R: Statistics Lab & Quiz
 ---
 * Feb-22-T: Time series, sampling and filtering :bangbang: **Online ONLY**
