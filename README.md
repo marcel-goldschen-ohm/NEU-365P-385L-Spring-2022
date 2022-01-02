@@ -206,7 +206,7 @@ You are `allowed to collaborate` with your classmates on homework assignments un
     * :cyclone: You will be able to use Numba to accelerate your functions.
     * `conda install numba`
     * :paperclip: [Numba](http://numba.pydata.org)
-    * :clapper: [An opinion on class objects](https://www.youtube.com/watch?v=QM1iUe6IofM&t=2618s)
+    * :clapper: [An opinion on classes and object-oriented programming (OOP)](https://www.youtube.com/watch?v=QM1iUe6IofM&t=2618s)
 * Feb-03-R: Basics Lab & Quiz
     * :bangbang: **No homework this week.** If you find yourself behind, **this is the time to catch up**.
 ---
