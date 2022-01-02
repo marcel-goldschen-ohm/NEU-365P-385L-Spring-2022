@@ -190,7 +190,7 @@ You are `allowed to collaborate` with your classmates on homework assignments un
     * `conda install matplotlib`
     * `conda install -c plotly plotly`
     * `conda install ipywidgets` --> reboot jupyter-lab afterwards
-    * :paperclip: [NumPy](https://numpy.org), :star:[A visual intro to NumPy](https://jalammar.github.io/visual-numpy/), [Matplotlib](https://matplotlib.org), [Plotly](https://plotly.com/python/getting-started/)
+    * :paperclip: [NumPy](https://numpy.org), [A visual intro to NumPy](https://jalammar.github.io/visual-numpy/), [Matplotlib](https://matplotlib.org), [Plotly](https://plotly.com/python/getting-started/)
 * Jan-27-R: Random walk lab
     * :cyclone: You will apply everything you have learned up to this point (basic Python, NumPy, plotting) to simulate random walks.
     * :cyclone: You will appreciate the role of randomness in molecular diffusion.
