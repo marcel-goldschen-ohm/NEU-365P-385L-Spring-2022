@@ -262,7 +262,6 @@ You are `allowed to collaborate` with your classmates on homework assignments un
     * :pencil2: HMMs :alarm_clock: due Mar-11-F
 ---
 * Mar-08-T: **Midterm Exam (may move to Mar-10-R, so keep both dates open)**
-    * Covers everything up to but NOT including HMMs.
 * Mar-10-R: Pandas data tables and exploratory data analysis
     * :cyclone: You will be able to work with datasets using Pandas DataFrames (i.e. tables).
     * :cyclone: You will appreciate some advantages of Pandas over traditional spreadsheet programs like Excel.
