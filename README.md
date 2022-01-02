@@ -203,7 +203,7 @@ You are `allowed to collaborate` with your classmates on homework assignments un
     * :cyclone: You will be able to create your own Python modules.
     * :cyclone: You will be able to use Numba to accelerate your functions.
     * `conda install numba`
-    * :paperclip: [Numba](http://numba.pydata.org)
+    * :paperclip: [Numba](http://numba.pydata.org), [An opinion on class objects](https://www.youtube.com/watch?v=QM1iUe6IofM&t=2618s)
 * Feb-03-R: Basics Lab & Quiz
     * :bangbang: **No homework this week.** If you find yourself behind, **this is the time to catch up**.
 ---
