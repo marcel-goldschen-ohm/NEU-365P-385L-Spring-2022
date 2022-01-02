@@ -159,6 +159,8 @@ You are `allowed to collaborate` with your classmates on homework assignments un
 
 :paperclip: = Additional Resources (please share if you know of a good resource not listed)
 
+:clapper: = Video
+
 ---
 * Jan-18-T: Introduction to the Python and Jupyter ecosystem
     * :cyclone: You will understand compiled vs. interpreted code.
@@ -203,7 +205,8 @@ You are `allowed to collaborate` with your classmates on homework assignments un
     * :cyclone: You will be able to create your own Python modules.
     * :cyclone: You will be able to use Numba to accelerate your functions.
     * `conda install numba`
-    * :paperclip: [Numba](http://numba.pydata.org), [An opinion on class objects](https://www.youtube.com/watch?v=QM1iUe6IofM&t=2618s)
+    * :paperclip: [Numba](http://numba.pydata.org)
+    * :clapper: [An opinion on class objects](https://www.youtube.com/watch?v=QM1iUe6IofM&t=2618s)
 * Feb-03-R: Basics Lab & Quiz
     * :bangbang: **No homework this week.** If you find yourself behind, **this is the time to catch up**.
 ---
@@ -231,7 +234,8 @@ You are `allowed to collaborate` with your classmates on homework assignments un
     * :cyclone: You will be able to generate bootstrap confidence intervals.
     * `conda install -c conda-forge statsmodels`
     * :pencil2: Bootstrap and permutation test :alarm_clock: due Feb-25-F
-    * :paperclip: [Statsmodels](https://www.statsmodels.org/stable/index.html), [Twelve P-Value Misconceptions](https://www.youtube.com/watch?v=QAwYwcSTdLs)
+    * :paperclip: [Statsmodels](https://www.statsmodels.org/stable/index.html)
+    * :clapper: [Twelve P-Value Misconceptions](https://www.youtube.com/watch?v=QAwYwcSTdLs)
 * Feb-17-R: Statistics Lab & Quiz
 ---
 * Feb-22-T: Time series, sampling and filtering :bangbang: **Online ONLY**
@@ -330,8 +334,8 @@ You are `allowed to collaborate` with your classmates on homework assignments un
     * :cyclone: input, weights, activation function, ... to next layer
     * :cyclone: back propagation, gradient descent, stochastic gradient descent
     * :cyclone: activation functions: sigmoid, ReLU, ...
-    * :paperclip: [3Blue1Brown Neural Networks YouTube video series](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
     * :paperclip: [PyTorch](https://pytorch.org/), [TensorFlow](https://www.tensorflow.org/), [Keras](https://keras.io/)
+    * :clapper: [3Blue1Brown Neural Networks YouTube video series](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 * Apr-28-R: Convolutional Neural Network (CNN)
     * :pencil2: Neural Networks :alarm_clock: due May-06-F
 ---
