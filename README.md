@@ -104,11 +104,11 @@ Depending on the distribution of scores, I may alter the above ranges to normali
 
 ## Grading Rubric
 
-Most questions will be worth 3 points for which the grading rubric is:
+Most questions will be worth 3 pts for which the grading rubric is:
 
-    +1 point for a remotely valid attempt
-    +2 points if there are only minor mistakes
-    +3 points if appropriately addressed
+    +1 pt for a remotely valid attempt
+    +2 pts if there are only minor mistakes
+    +3 pts if appropriately addressed
 
 ## Homework :pencil2:
 
