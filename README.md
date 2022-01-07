@@ -181,8 +181,8 @@ You are `allowed to collaborate` with your classmates on homework assignments un
     * :paperclip: [Python lists](https://developers.google.com/edu/python/lists), [List exercises](https://holypython.com/beginner-python-exercises/exercise-6-python-lists/), [List slicing exercises](https://holypython.com/beginner-python-exercises/exercise-17-python-slicing/), [Python beginner tutorials](https://www.tutorialsteacher.com/python), [Python basics](https://www.learnpython.org), [The Hitchhiker's Guide to Python](https://docs.python-guide.org/intro/learning/), [More Python tutorials](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers), [Python Tutor](https://pythontutor.com)
 ---
 * Jan-25-T: NumPy multi-dimensional data arrays and basic plotting
-    * :cyclone: You will have an idea of why data are often represented as multi-dimensional arrays.
-    * :cyclone: You will be able to use NumPy to index, slice, manipulate and get statistics for data arrays.
+    * :cyclone: You will appreciate why many types of data are often represented as multi-dimensional arrays.
+    * :cyclone: You will be able to use NumPy to manipulate and get statistics for multi-dimensional arrays.
     * :cyclone: You will gain some appreciation for why NumPy is an absolute necessity for data science.
     * :cyclone: You will be able to create basic plots with Matplotlib.
     * :cyclone: You will be able to create interactive plots with Plotly.
@@ -217,12 +217,12 @@ You are `allowed to collaborate` with your classmates on homework assignments un
     * :cyclone: You will appreciate how the Central Limit Theorem explains why Normal-ish distributions are frequently observed in biological measurements.
     * :cyclone: You will be able to use the SciPy stats module to work with probability distributions.
     * :cyclone: You will be able to find the value associated with a given percentage of a distribution or vice-versa.
-    * :cyclone: You will be able to plot data distributions normalized to a probability density.
+    * :cyclone: You will be able to plot data distributions as histograms normalized to a probability density.
     * `conda install scipy`
     * :paperclip: [SciPy](https://scipy.org), [scipy.stats](https://docs.scipy.org/doc/scipy-0.14.0/reference/stats.html)
 * Feb-10-R: Optimization and Maximum Likelihood Estimation (MLE)
     * :cyclone: You will be able to optimize the parameters of a model by minimizing a cost or error function.
-    * :cyclone: You will be able to find the parameters of any selected probability distribution that are most likely to explain a data sample.
+    * :cyclone: You will be able to find the parameters of any arbitrary probability distribution that are most likely to explain your data.
     * :pencil2: Maximum Likelihood Estimation :alarm_clock: due Feb-18-F
     * :bangbang: **If you are behind** at this point, please **contact me** so we can **get you back on track**.
 ---
@@ -238,7 +238,7 @@ You are `allowed to collaborate` with your classmates on homework assignments un
     * :clapper: [Twelve P-Value Misconceptions](https://www.youtube.com/watch?v=QAwYwcSTdLs)
 * Feb-17-R: Statistics Lab & Quiz
 ---
-* Feb-22-T: Time series, sampling and filtering :bangbang: **Online ONLY**
+* Feb-22-T: Time series, sampling and filtering
     * :cyclone: You will understand the difference between a time series and a distribution of random values.
     * :cyclone: You will be able to determine the autocorrelation amongst data points in a series.
     * :cyclone: You will be able to visualize the frequencies in a time series as a power spectrum or a spectrogram.
@@ -257,7 +257,7 @@ You are `allowed to collaborate` with your classmates on homework assignments un
     * :cyclone: You will understand how a HMM can describe a data sequence.
     * :cyclone: You will be able to construct an HMM and optimize its parameters for a given data sequence or set of data sequences.
     * :cyclone: You will apply an HMM to model the gating time series of a single ion channel.
-    * :cyclone: You will see that the HMM can use sequence information to improve assignment of noisy data points to a discrete set of model states.
+    * :cyclone: You will see that an HMM does a better job at describing a noisy ion channel gating series than clustering approaches that do not take the sequence into account.
     * `conda install pomegranate`
     * :paperclip: [Pomegranate](https://github.com/jmschrei/pomegranate)
 * Mar-03-R: HMM Lab
@@ -266,11 +266,12 @@ You are `allowed to collaborate` with your classmates on homework assignments un
     * :pencil2: HMMs :alarm_clock: due Mar-11-F
 ---
 * Mar-08-T: **Midterm Exam (may move to Mar-10-R, so keep both dates open)**
-* Mar-10-R: Pandas data tables and exploratory data analysis
-    * :cyclone: You will be able to work with datasets using Pandas DataFrames (i.e. tables).
+* Mar-10-R: Pandas dataframes and exploratory data analysis
+    * :cyclone: You will be able to work with datasets using Pandas dataframes (i.e. tables).
+    * :cyclone: You will be able to convert between a spreadsheet file and a Pandas dataframe.
     * :cyclone: You will appreciate some advantages of Pandas over traditional spreadsheet programs like Excel.
-    * :cyclone: You will see how Pandas can allow for rapid Exploratory Data Analysis and Visualization.
-    * :cyclone: You will be introduced to several packages that provide additional features for interacting with Pandas DataFrames or Exploratory Data Analysis.
+    * :cyclone: You will see how Pandas can allow for rapid Exploratory Data Analysis (EDA) and Visualization.
+    * :cyclone: You will be introduced to several packages that provide additional features or work together with Pandas dataframes.
     * `conda install pandas`
     * `conda install seaborn`
     * `conda install pip`
@@ -285,6 +286,7 @@ You are `allowed to collaborate` with your classmates on homework assignments un
 * Mar-17-R: SPRING BREAK
 ---
 * Mar-22-T: Linear regression
+    * :cyclone: You will appreciate that linear models are straightforward to interpret.
     * :cyclone: You will understand under what conditions linear regression is appropriate.
     * :cyclone: You will understand the potential impact of outliers with high leverage.
     * :cyclone: You will be able to perform simple and multiple linear regression.
@@ -294,7 +296,7 @@ You are `allowed to collaborate` with your classmates on homework assignments un
     * :paperclip: [Scikit-learn](https://scikit-learn.org/stable/)
 * Mar-24-R: Polynomial regression and General Linear Models (GLMs)
     * :cyclone: You will see how polynomial regression can be recast as an ordinary linear regression.
-    * :cyclone: You will see how to use a GLM for Poisson and logistic regression.
+    * :cyclone: You will see how to use a GLM for Poisson and Logistic regression.
     * :pencil2: Regression :alarm_clock: due Apr-01-F
 ---
 * Mar-29-T: Underfitting vs. overfitting and cross validation
@@ -304,7 +306,7 @@ You are `allowed to collaborate` with your classmates on homework assignments un
 * Mar-31-R: Regularization and nonparametric regression
     * :cyclone: Ridge and Lasso regression
     * :cyclone: K-Nearest Neighbors (KNN) regression
-    * :pencil2: Cross Validation :alarm_clock: due Apr-08-F
+    * :pencil2: Regularization and KNN regression :alarm_clock: due Apr-08-F
 ---
 * Apr-05-T: Regression Lab & Quiz
 * Apr-07-R: Classification
@@ -329,7 +331,7 @@ You are `allowed to collaborate` with your classmates on homework assignments un
 * Apr-21-R: PCA Lab
     * :pencil2: PCA :alarm_clock: due Apr-29-F
 ---
-* Apr-26-T: Neural Networks (NNs) and Deep Learning
+* Apr-26-T: Neural Networks and Deep Learning
     * :cyclone: perceptron, feed forward neural network
     * :cyclone: input, weights, activation function, ... to next layer
     * :cyclone: back propagation, gradient descent, stochastic gradient descent
