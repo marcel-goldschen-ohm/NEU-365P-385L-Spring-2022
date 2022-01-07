@@ -173,9 +173,9 @@ You are `allowed to collaborate` with your classmates on homework assignments un
     * :paperclip: [What can I do with Python?](https://realpython.com/what-can-i-do-with-python/), [Miniconda](https://docs.conda.io/en/latest/miniconda.html), [Intro to Jupyter and JupyterLab](https://coderefinery.github.io/jupyter/)
 * Jan-20-R: Python basics
     * :cyclone: You will be able to work with variables.
-    * :cyclone: You will be able to create, index into, slice, and iterate over lists.
     * :cyclone: You will understand how Python code is organized into blocks.
     * :cyclone: You will be able to conditionally execute code blocks.
+    * :cyclone: You will be able to create, index into, slice, and iterate over lists.
     * :cyclone: You will understand the difference between a copy and a reference.
     * :pencil2: Python basics :alarm_clock: due Jan-24-M
     * :paperclip: [Python lists](https://developers.google.com/edu/python/lists), [List exercises](https://holypython.com/beginner-python-exercises/exercise-6-python-lists/), [List slicing exercises](https://holypython.com/beginner-python-exercises/exercise-17-python-slicing/), [Python beginner tutorials](https://www.tutorialsteacher.com/python), [Python basics](https://www.learnpython.org), [The Hitchhiker's Guide to Python](https://docs.python-guide.org/intro/learning/), [More Python tutorials](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers), [Python Tutor](https://pythontutor.com)
