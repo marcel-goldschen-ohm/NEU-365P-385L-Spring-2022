@@ -120,7 +120,7 @@ Homework is predominantly weekly, and you will usually have one week to complete
 
 :bangbang: The course is fast paced, so keeping up with practicing the nearly weekly homework is critical for your success.
 
-:warning: If you clone this repository, be sure to `move the homework files outside of your cloned folder` before you work on them. Otherwise, the next time you sync with this repository `your homework will be overwritten with blank assignments`! You don't have to worry about this if you download the files manually.
+:warning: If you clone this repository, be sure to `move the homework files outside of your cloned folder` before you work on them. Otherwise, the next time you sync with this repository `your homework will be overwritten with blank assignments!` You don't have to worry about this if you download the files manually.
 
 :warning: I reserve the right to alter any of the homework files anytime prior to their assignment. If you opt to complete any of the assignments ahead of time, it is up to you to check for any changes at the time of assignment.
 
