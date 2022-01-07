@@ -166,7 +166,7 @@ You are `allowed to collaborate` with your classmates on homework assignments un
     * :cyclone: You will understand compiled vs. interpreted code.
     * :cyclone: You will have a general understanding of the Python ecosystem.
     * :cyclone: You will be introduced to the Conda package manager.
-    * :cyclone: You will be introduced to the JupyterLab environement.
+    * :cyclone: You will be introduced to the JupyterLab environment.
     * :bangbang: Install [Python and Conda](https://docs.conda.io/en/latest/miniconda.html) (see instructions at bottom of page)
     * `conda install -c conda-forge jupyterlab`
     * `jupyter-lab` <-- launches JupyterLab in your web browser
