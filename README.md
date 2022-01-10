@@ -19,6 +19,7 @@ Programming and Data Analysis for Modern Neuroscience, Spring 2022
 - [Homework](#homework-pencil2)
 - [How to manually download Jupyter notebook homework files](#how-to-manually-download-jupyter-notebook-homework-files)
 - [Homework Collaboration](#homework-collaboration)
+- [Programming Rules of Thumb](#programming-rules-of-thumb)
 - [Topics Map](#topics-map) :star:
 - [Syllabus](#syllabus)
 - [Install Python and JupyterLab (required)](#install-python-and-jupyterlab-required) :bangbang: Install Python 3.x, Conda and JupyterLab PRIOR TO THE FIRST CLASS.
@@ -140,6 +141,18 @@ You are `allowed to collaborate` with your classmates on homework assignments un
 * collaborator 2
 
 :bangbang: It is imperitive that both collaborators have each others names in their respective lists. Any academic dishonesty such as copying a fellow students assignment without collaborating in its completion will be severly punished as outlined by the University.
+
+## Programming Rules of Thumb
+
+Being good at programming is NOT simply knowing a lot of program syntax.
+
+It is about:
+
+* Understanding a problem conceptually and being able to translate it into code.
+* Thinking of new ways to tackle a problem and knowing what tools to use.
+* Knowing how to fix your program when it does not work.
+* Writing a program that is fast enough, not the fastest possible.
+* Writing a program that can be understood by other people (or by yourself in a year!)
 
 ## Topics Map
 
