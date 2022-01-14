@@ -209,7 +209,7 @@ It is about:
     * :cyclone: You will appreciate the role of randomness in molecular diffusion.
     * :bangbang: These simulations are a great way for you to practice Python basics, leveraging the power of NumPy multi-dimensional data arrays, and plotting your results in the context of a simulation that is informative on an important physical phenomenon salient to neural signaling. **I cannot stress enough the importance of this assignment to establish the fundamentals we will use throughout this course. Make sure you are able to complete this assignment with full understanding of your code.**
     * :bangbang: I realize that for those of you with little to no prior coding experience, this assignment may be a big leap. If you find yourself struggling, I want you to realize that this is not necessarily unexpected, and I want you to use all available resources to reach out for help including the course discussion board, office hours, group study sessions, online resources, etc. As a last resort, please reach out directly to either myself or the TA. **This assignment is that important.**
-    * :pencil2: Random walks :alarm_clock: due Feb-04-F
+    * :pencil2: `hw-random-walks.ipynb` :alarm_clock: due Feb-04-F
     * :paperclip: [Diffusion and random walks](https://www.uio.no/studier/emner/matnat/fys/FYS2160/h17/simuleringsopgaver/virrevandrer_diffusjon.pdf)
 ---
 * Feb-01-T: Basics Lab & Quiz
