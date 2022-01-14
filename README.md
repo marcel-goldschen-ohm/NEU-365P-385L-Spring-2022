@@ -212,7 +212,8 @@ It is about:
     * :pencil2: Random walks :alarm_clock: due Feb-04-F
     * :paperclip: [Diffusion and random walks](https://www.uio.no/studier/emner/matnat/fys/FYS2160/h17/simuleringsopgaver/virrevandrer_diffusjon.pdf)
 ---
-* Feb-01-T: Functions, classes, modules and optimization with Numba
+* Feb-01-T: Basics Lab & Quiz
+* Feb-03-R: Functions, classes, modules and optimization with Numba
     * :cyclone: You will be able to write your own Python functions.
     * :cyclone: You will understand the basics of Python class objects.
     * :cyclone: You will be able to create your own Python modules.
@@ -220,7 +221,6 @@ It is about:
     * `conda install numba`
     * :paperclip: [Numba](http://numba.pydata.org)
     * :clapper: [An opinion on classes and object-oriented programming (OOP)](https://www.youtube.com/watch?v=QM1iUe6IofM&t=2618s)
-* Feb-03-R: Basics Lab & Quiz
     * :bangbang: **No homework this week.** If you find yourself behind, **this is the time to catch up**.
 ---
 * Feb-08-T: Probability distributions of random variables and the Central Limit Theorem
