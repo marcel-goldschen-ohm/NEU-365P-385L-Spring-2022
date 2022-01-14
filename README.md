@@ -379,6 +379,7 @@ This is not the only way to install and/or manage your Python environment, but i
 * [An Introduction to Statistical Learning](https://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf): Nice intro to fairly complex statistical methods with very little math. **Highly recommend!** Example code is in R, but explanations are helpful in general. Note that this is a bit longer and more indepth than the options above. **This is more about understanding statistical methods than coding.**
 * [Deep Learning Online Book](https://www.deeplearningbook.org/): Requires some comfort with mathematics.
 * [CS109](https://github.com/cs109/content): Online material for CS109 course with moderately complex examples of some of the topics we cover in this course (although not related to neuroscience).
+* [List of neuroscience databases](https://en.wikipedia.org/wiki/List_of_neuroscience_databases)
 
 ## Other interesting Python packages
 * [napari](https://napari.org/): Multi-dimensional image viewer.
