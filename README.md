@@ -85,7 +85,7 @@ Post your questions on the `Discussion Board` (see below) where either myself or
 
 See Canvas for a link to the discussion board.
 
-:bangbang: Every time you interact with the discussion board in a meaningful way, you will receive `1 pt of extra credit` up to a maximum of 5 pts per week. Myself and the TA will decide what constitutes 'meaningful'. I realize this is subjective, but in general it includes asking a question, answering a question, or contributing addtional information or resources relevant to the course. Also, do not purposely attempt to break up your responses into many tiny chunks. All responses regarding a particular topic will together be considered as a single interaction, and a collection of smaller interactions may be considered as one meaningful interaction. This extra credit will be tabulated weekly and points added within Canvas.
+:bangbang: Every time you interact with the discussion board in a meaningful way, you will receive `1 pt of extra credit` up to a maximum of 3 pts per week. Myself and the TA will decide what constitutes 'meaningful'. I realize this is subjective, but in general it includes asking a question, answering a question, or contributing addtional information or resources relevant to the course. Also, do not purposely attempt to break up your responses into many tiny chunks. All responses regarding a particular topic will together be considered as a single interaction, and a collection of smaller interactions may be considered as one meaningful interaction. This extra credit will be tabulated weekly and points added within Canvas.
 
 ## Policies
 
