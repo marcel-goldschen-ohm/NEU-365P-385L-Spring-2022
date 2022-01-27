@@ -212,7 +212,8 @@ It is about:
     * :pencil2: `hw-random-walks.ipynb` :alarm_clock: due Feb-04-F
     * :paperclip: [Diffusion and random walks](https://www.uio.no/studier/emner/matnat/fys/FYS2160/h17/simuleringsopgaver/virrevandrer_diffusjon.pdf)
 ---
-* Feb-01-T: Basics Lab & Quiz
+* Feb-01-T: Random walk lab 2
+    * Random walks in 2-D.
 * Feb-03-R: Functions, classes, modules and optimization with Numba
     * :cyclone: You will be able to write your own Python functions.
     * :cyclone: You will understand the basics of Python class objects.
