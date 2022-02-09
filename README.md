@@ -239,7 +239,7 @@ It is about:
 * Feb-15-T: Optimization and Maximum Likelihood Estimation (MLE)
     * :cyclone: You will be able to optimize the parameters of a model by minimizing a cost or error function.
     * :cyclone: You will be able to find the parameters of any arbitrary probability distribution that are most likely to explain your data.
-    * :pencil2: Maximum Likelihood Estimation :alarm_clock: due Feb-18-F
+    * :pencil2: Maximum Likelihood Estimation :alarm_clock: due Feb-23-W
     * :bangbang: **If you are behind** at this point, please **contact me** so we can **get you back on track**.
 * Feb-17-R: Hypothesis testing, p-values, confidence intervals and bootstrapping
     * :cyclone: You will be able to compute a p-value for a null hypothesis.
