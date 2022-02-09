@@ -214,7 +214,10 @@ It is about:
 ---
 * Feb-01-T: Random walk lab 2
     * Random walks in 2-D.
-* Feb-03-R: Functions, classes, modules and optimization with Numba
+* Feb-03-R: CANCELED DUE TO WINTER STORM
+    * :bangbang: **No homework this week.** If you find yourself behind, **this is the time to catch up**.
+---
+* Feb-08-T: Functions, classes, modules and optimization with Numba
     * :cyclone: You will be able to write your own Python functions.
     * :cyclone: You will understand the basics of Python class objects.
     * :cyclone: You will be able to create your own Python modules.
@@ -222,9 +225,7 @@ It is about:
     * `conda install numba`
     * :paperclip: [Numba](http://numba.pydata.org)
     * :clapper: [An opinion on classes and object-oriented programming (OOP)](https://www.youtube.com/watch?v=QM1iUe6IofM&t=2618s)
-    * :bangbang: **No homework this week.** If you find yourself behind, **this is the time to catch up**.
----
-* Feb-08-T: Probability distributions of random variables and the Central Limit Theorem
+* Feb-10-R: Probability distributions of random variables and the Central Limit Theorem
     * :cyclone: You will understand the difference between a probability and a probability density.
     * :cyclone: You will understand general use cases for Normal, Exponential, Poisson and Binomial distributions.
     * :cyclone: You will understand the difference between a population distribution and a sampling distributuion.
@@ -234,13 +235,13 @@ It is about:
     * :cyclone: You will be able to plot data distributions as histograms normalized to a probability density.
     * `conda install scipy`
     * :paperclip: [SciPy](https://scipy.org), [scipy.stats](https://docs.scipy.org/doc/scipy-0.14.0/reference/stats.html)
-* Feb-10-R: Optimization and Maximum Likelihood Estimation (MLE)
+---
+* Feb-15-T: Optimization and Maximum Likelihood Estimation (MLE)
     * :cyclone: You will be able to optimize the parameters of a model by minimizing a cost or error function.
     * :cyclone: You will be able to find the parameters of any arbitrary probability distribution that are most likely to explain your data.
     * :pencil2: Maximum Likelihood Estimation :alarm_clock: due Feb-18-F
     * :bangbang: **If you are behind** at this point, please **contact me** so we can **get you back on track**.
----
-* Feb-15-T: Hypothesis testing, p-values, confidence intervals and bootstrapping
+* Feb-17-R: Hypothesis testing, p-values, confidence intervals and bootstrapping
     * :cyclone: You will be able to compute a p-value for a null hypothesis.
     * :cyclone: You will appreciate the difference between a p-value and an effect size.
     * :cyclone: You will appreciate that p-values do not inform on the truth or relevance of your hypothesis.
@@ -250,7 +251,6 @@ It is about:
     * :pencil2: Bootstrap and permutation test :alarm_clock: due Feb-25-F
     * :paperclip: [Statsmodels](https://www.statsmodels.org/stable/index.html)
     * :clapper: [Twelve P-Value Misconceptions](https://www.youtube.com/watch?v=QAwYwcSTdLs)
-* Feb-17-R: Statistics Lab & Quiz
 ---
 * Feb-22-T: Time series, sampling and filtering
     * :cyclone: You will understand the difference between a time series and a distribution of random values.
