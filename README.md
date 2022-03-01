@@ -272,7 +272,8 @@ It is about:
     * :cyclone: You will be able to construct an HMM and optimize its parameters for a given data sequence or set of data sequences.
     * :cyclone: You will apply an HMM to model the gating time series of a single ion channel.
     * :cyclone: You will see that an HMM does a better job at describing a noisy ion channel gating series than clustering approaches that do not take the sequence into account.
-    * `conda install pomegranate`
+    * `conda install pip`
+    * `pip install pomegranate==0.14.3`
     * :paperclip: [Pomegranate](https://github.com/jmschrei/pomegranate)
 * Mar-03-R: HMM Lab
     * :cyclone: You will see how HMMs can be used to identify features in a sequence.
