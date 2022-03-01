@@ -281,6 +281,7 @@ It is about:
     * :pencil2: HMMs :alarm_clock: due Mar-11-F
 ---
 * Mar-08-T: **Midterm Exam**
+    * Comprehensive exam covering everything up to but NOT including HMMs.
 * Mar-10-R: Pandas dataframes and exploratory data analysis
     * :cyclone: You will be able to work with datasets using Pandas dataframes (i.e. tables).
     * :cyclone: You will be able to convert between a spreadsheet file and a Pandas dataframe.
