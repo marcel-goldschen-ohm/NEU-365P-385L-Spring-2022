@@ -279,7 +279,7 @@ It is about:
     * :cyclone: You will apply an HMM to model features in a gene sequence.
     * :pencil2: HMMs :alarm_clock: due Mar-11-F
 ---
-* Mar-08-T: **Midterm Exam (may move to Mar-10-R, so keep both dates open)**
+* Mar-08-T: **Midterm Exam**
 * Mar-10-R: Pandas dataframes and exploratory data analysis
     * :cyclone: You will be able to work with datasets using Pandas dataframes (i.e. tables).
     * :cyclone: You will be able to convert between a spreadsheet file and a Pandas dataframe.
