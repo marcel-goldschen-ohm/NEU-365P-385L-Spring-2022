@@ -385,7 +385,7 @@ This is not the only way to install and/or manage your Python environment, but i
 * [Deep Learning Online Book](https://www.deeplearningbook.org/): Requires some comfort with mathematics.
 * [CS109](https://github.com/cs109/content): Online material for CS109 course with moderately complex examples of some of the topics we cover in this course (although not related to neuroscience).
 * [List of neuroscience databases](https://en.wikipedia.org/wiki/List_of_neuroscience_databases)
-* [Neuromatch Academy](https://compneuro.neuromatch.io/tutorials/intro.html): **Online course in computational neuroscience with acompanying videos and Python tutorials. Highly recommend!**
+* [Neuromatch Academy](https://compneuro.neuromatch.io/tutorials/intro.html): Online course in computational neuroscience with acompanying videos and Python tutorials. **Highly recommend!**
 
 ## Other interesting Python packages
 * [napari](https://napari.org/): Multi-dimensional image viewer.
