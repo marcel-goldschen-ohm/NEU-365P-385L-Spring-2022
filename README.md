@@ -312,7 +312,7 @@ Made in [Lucid](https://lucid.app).
     * :cyclone: You will be able to visualize confidence intervals.
     * `conda install scikit-learn`
     * :paperclip: [Scikit-learn](https://scikit-learn.org/stable/)
-* Mar-24-R: Polynomial regression and General Linear Models (GLMs)
+* Mar-24-R: Generalized Linear Models (GLMs) and Polynomial regression
     * :cyclone: You will see how polynomial regression can be recast as an ordinary linear regression.
     * :cyclone: You will see how to use a GLM for Poisson and Logistic regression.
     * :pencil2: Regression :alarm_clock: due Apr-01-F
