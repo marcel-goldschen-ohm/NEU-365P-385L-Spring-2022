@@ -331,13 +331,13 @@ Made in [Lucid](https://lucid.app).
     * :cyclone: Logistic regression (classifier)
     * :cyclone: Confusion matrix
     * :cyclone: ROC curve
+    * :cyclone: Support Vector Machine classifier
     * :pencil2: Classification :alarm_clock: due Apr-15-F
 ---
 * Apr-12-T: Bagging and Boosting
     * :cyclone: Decision Tree classifier
     * :cyclone: Random Forest classifier
     * :cyclone: XGBoost classifier
-    * :cyclone: Support Vector Machine classifier
 * Apr-14-R: Clustering
     * :cyclone: k-means clustering
     * :cyclone: Gaussian Mixture Model (GMM)
