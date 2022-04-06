@@ -315,7 +315,7 @@ Made in [Lucid](https://lucid.app).
 * Mar-24-R: Generalized Linear Models (GLMs) and Polynomial regression
     * :cyclone: You will see how polynomial regression can be recast as an ordinary linear regression.
     * :cyclone: You will see how to use a GLM for Poisson and Logistic regression.
-    * :pencil2: Regression :alarm_clock: due Apr-01-F
+    * :pencil2: Regression and GLMs :alarm_clock: due Apr-01-F
 ---
 * Mar-29-T: Underfitting vs. overfitting and cross validation
     * :cyclone: Bias/Variance tradeoff
@@ -323,19 +323,22 @@ Made in [Lucid](https://lucid.app).
     * :cyclone: Cross validation
 * Mar-31-R: Regularization and nonparametric regression
     * :cyclone: Ridge and Lasso regression
-    * :cyclone: K-Nearest Neighbors (KNN) regression
-    * :pencil2: Regularization and KNN regression :alarm_clock: due Apr-08-F
+    * :pencil2: Cross Validdation and Regularization :alarm_clock: due Apr-08-F
 ---
-* Apr-05-T: Regression Lab & Quiz
+* Apr-05-T: Nonparametric Regression & Regression Lab
+    * :cyclone: K-Nearest Neighbors (KNN) regression
 * Apr-07-R: Classification
     * :cyclone: Logistic regression (classifier)
-    * :cyclone: Random Forest classifier
-    * :cyclone: Support Vector Machine classifier
     * :cyclone: Confusion matrix
     * :cyclone: ROC curve
     * :pencil2: Classification :alarm_clock: due Apr-15-F
 ---
-* Apr-12-T: Clustering
+* Apr-12-T: Bagging and Boosting
+    * :cyclone: Decision Tree classifier
+    * :cyclone: Random Forest classifier
+    * :cyclone: XGBoost classifier
+    * :cyclone: Support Vector Machine classifier
+* Apr-14-R: Clustering
     * :cyclone: k-means clustering
     * :cyclone: Gaussian Mixture Model (GMM)
     * :cyclone: mean-shift clustering
@@ -343,7 +346,6 @@ Made in [Lucid](https://lucid.app).
     * :cyclone: Density-Based Spatial Clustering (DBSCAN)
     * :cyclone: GMM model selection with Bayesian Information Criterion (BIC)
     * :pencil2: Clustering :alarm_clock: due Apr-22-F
-* Apr-14-R: Classification/Clustering Lab & Quiz
 ---
 * Apr-19-T: Principal Component Analysis (PCA)
 * Apr-21-R: PCA Lab
