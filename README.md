@@ -323,7 +323,7 @@ Made in [Lucid](https://lucid.app).
     * :cyclone: Cross validation
 * Mar-31-R: Regularization and nonparametric regression
     * :cyclone: Ridge and Lasso regression
-    * :pencil2: Cross Validdation and Regularization :alarm_clock: due Apr-08-F
+    * :pencil2: Cross Validation and Regularization :alarm_clock: due Apr-08-F
 ---
 * Apr-05-T: Nonparametric Regression & Regression Lab
     * :cyclone: K-Nearest Neighbors (KNN) regression
@@ -334,7 +334,7 @@ Made in [Lucid](https://lucid.app).
     * :cyclone: Support Vector Machine classifier
     * :pencil2: Classification :alarm_clock: due Apr-15-F
 ---
-* Apr-12-T: Bagging and Boosting
+* Apr-12-T: Ensemble Bagging and Boosting
     * :cyclone: Decision Tree classifier
     * :cyclone: Random Forest classifier
     * :cyclone: XGBoost classifier
