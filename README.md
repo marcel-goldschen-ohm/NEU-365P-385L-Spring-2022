@@ -331,14 +331,16 @@ Made in [Lucid](https://lucid.app).
     * :cyclone: Logistic regression (classifier)
     * :cyclone: Confusion matrix
     * :cyclone: ROC curve
-    * :cyclone: Support Vector Machine classifier
-    * :pencil2: Classification :alarm_clock: due Apr-15-F
 ---
-* Apr-12-T: Ensemble Bagging and Boosting
+* Apr-12-T: Support Vector Machine (SVM) & Ensemble Bagging
+    * :cyclone: Support Vector Machine classifier
     * :cyclone: Decision Tree classifier
     * :cyclone: Random Forest classifier
+* Apr-14-R: Boosting
     * :cyclone: XGBoost classifier
-* Apr-14-R: Clustering
+    * :pencil2: Classification :alarm_clock: due Apr-22-F
+---
+* Apr-19-T: Clustering
     * :cyclone: k-means clustering
     * :cyclone: Gaussian Mixture Model (GMM)
     * :cyclone: mean-shift clustering
@@ -346,23 +348,21 @@ Made in [Lucid](https://lucid.app).
     * :cyclone: Density-Based Spatial Clustering (DBSCAN)
     * :cyclone: GMM model selection with Bayesian Information Criterion (BIC)
     * :pencil2: Clustering :alarm_clock: due Apr-22-F
+* Apr-21-R: Principal Component Analysis (PCA)
 ---
-* Apr-19-T: Principal Component Analysis (PCA)
-* Apr-21-R: PCA Lab
+* Apr-26-T: PCA Lab
     * :pencil2: PCA :alarm_clock: due Apr-29-F
----
-* Apr-26-T: Neural Networks and Deep Learning
+* Apr-28-R: Neural Networks and Deep Learning
     * :cyclone: perceptron, feed forward neural network
     * :cyclone: input, weights, activation function, ... to next layer
     * :cyclone: back propagation, gradient descent, stochastic gradient descent
     * :cyclone: activation functions: sigmoid, ReLU, ...
     * :paperclip: [PyTorch](https://pytorch.org/), [TensorFlow](https://www.tensorflow.org/), [Keras](https://keras.io/)
     * :clapper: [3Blue1Brown Neural Networks YouTube video series](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
-* Apr-28-R: Convolutional Neural Network (CNN)
-    * :pencil2: Neural Networks :alarm_clock: due May-06-F
 ---
-* May-03-T: Long/Short Term Memory (LSTM) Recurrent Neural Network (RNN)
-* May-05-R: Neural Network Lab
+* May-03-T: Convolutional Neural Network (CNN)
+    * :pencil2: Neural Networks :alarm_clock: due May-06-F
+* May-05-R: Long/Short Term Memory (LSTM) Recurrent Neural Network (RNN)
 ---
 * May-11-W: **Final Exam** 9:00 am-12:00 noon
 ---
