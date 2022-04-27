@@ -357,6 +357,7 @@ Made in [Lucid](https://lucid.app).
     * :cyclone: input, weights, activation function, ... to next layer
     * :cyclone: back propagation, gradient descent, stochastic gradient descent
     * :cyclone: activation functions: sigmoid, ReLU, ...
+    * `conda install -c pytorch pytorch`
     * :paperclip: [PyTorch](https://pytorch.org/), [TensorFlow](https://www.tensorflow.org/), [Keras](https://keras.io/)
     * :clapper: [3Blue1Brown Neural Networks YouTube video series](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 ---
